@@ -1,0 +1,64 @@
+name: lumio
+description: "Lumio — Play. Learn. Glow. A product by Nexura Labs."
+publish_to: none
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.10.7
+  flutter: ">=3.38.6"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  flutter_riverpod: ^3.3.2
+  flutter_svg: ^2.3.0
+  go_router: ^17.5.0
+  intl: ^0.20.2
+  drift: 2.31.0
+  drift_flutter: 0.2.8
+  uuid: ^4.6.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  drift_dev: 2.31.0
+  build_runner: 2.10.5
+  sqlite3: 2.9.4
+
+flutter:
+  uses-material-design: true
+  generate: true
+  assets:
+    - assets/content/
+    - assets/ui/fonts/sora/OFL.txt
+    - assets/ui/fonts/plusjakartasans/OFL.txt
+    - assets/brand/logo/lumio-wordmark-color.svg
+    - assets/brand/mascot/lumi-celebrating.png
+    - assets/brand/mascot/lumi-welcome.png
+    - assets/brand/logo/lumio-primary-color.svg
+    - assets/brand/logo/lumio-wordmark-plum.svg
+    - assets/brand/logo/lumio-small-ui-white.svg
+    - assets/brand/mascot/lumi-happy.png
+    - assets/brand/mascot/lumi-curious.png
+    - assets/brand/fonts/nunito/OFL.txt
+    - assets/brand/fonts/lexend/OFL.txt
+    - assets/brand/fonts/notosansarabic/OFL.txt
+  fonts:
+    - family: Sora
+      fonts:
+        - asset: assets/ui/fonts/sora/Sora[wght].ttf
+    - family: PlusJakartaSans
+      fonts:
+        - asset: assets/ui/fonts/plusjakartasans/PlusJakartaSans[wght].ttf
+    - family: Nunito
+      fonts:
+        - asset: assets/brand/fonts/nunito/Nunito[wght].ttf
+    - family: Lexend
+      fonts:
+        - asset: assets/brand/fonts/lexend/Lexend[wght].ttf
+    - family: NotoSansArabic
+      fonts:
+        - asset: assets/brand/fonts/notosansarabic/NotoSansArabic[wdth,wght].ttf

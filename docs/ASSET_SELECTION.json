@@ -1,0 +1,75 @@
+{
+  "files": [
+    {
+      "source": "lumio-assets/brand/09-production/logos/lumio-primary-color.svg",
+      "asset": "assets/brand/logo/lumio-primary-color.svg",
+      "sha256": "74d1ade9c81e58b83a2559a887c92cbb59a6d16a9b1a5c5a0b47f40862a44f26"
+    },
+    {
+      "source": "lumio-assets/brand/09-production/logos/lumio-wordmark-plum.svg",
+      "asset": "assets/brand/logo/lumio-wordmark-plum.svg",
+      "sha256": "7f161b6f695f3ec85ecb40500de9497539934326bcb64e8364cb89d95ad767bb"
+    },
+    {
+      "source": "lumio-assets/brand/09-production/logos/lumio-small-ui-white.svg",
+      "asset": "assets/brand/logo/lumio-small-ui-white.svg",
+      "sha256": "58bdd26eb029ef35a38c3c31019d8264b9aaa9ed23a392aa2c887ac2290c7530"
+    },
+    {
+      "source": "lumio-assets/brand/06-character/reactions/lumi-happy.png",
+      "asset": "assets/brand/mascot/lumi-happy.png",
+      "sha256": "23ca8dfbaef7b9abcc68e6fe44870acc1cd303b4f84198ff29017a3f2e1273c6"
+    },
+    {
+      "source": "lumio-assets/brand/06-character/reactions/lumi-curious.png",
+      "asset": "assets/brand/mascot/lumi-curious.png",
+      "sha256": "9d59fee3e5b32e1dc20ee8f911c04f33209def99a8142b1d1c8b566b668118db"
+    },
+    {
+      "source": "lumio-assets/brand/09-production/fonts/nunito/Nunito[wght].ttf",
+      "asset": "assets/brand/fonts/nunito/Nunito[wght].ttf",
+      "sha256": "bb55a5ca5c2042335b3991af27c4d0705d0ef41cac6164ac737fd8f2a1e85207"
+    },
+    {
+      "source": "lumio-assets/brand/09-production/fonts/lexend/Lexend[wght].ttf",
+      "asset": "assets/brand/fonts/lexend/Lexend[wght].ttf",
+      "sha256": "3add53e641fbc81da64da4bb254285e2831b52b029527bc0714e2b9610832ee6"
+    },
+    {
+      "source": "lumio-assets/brand/09-production/fonts/notosansarabic/NotoSansArabic[wdth,wght].ttf",
+      "asset": "assets/brand/fonts/notosansarabic/NotoSansArabic[wdth,wght].ttf",
+      "sha256": "63111b5b2e074dd48cc67692e0a2726d86ee94c1c37fe8598257b7b4e87e869e"
+    },
+    {
+      "source": "lumio-assets/brand/09-production/fonts/nunito/OFL.txt",
+      "asset": "assets/brand/fonts/nunito/OFL.txt",
+      "sha256": "580df76c95a1ec5ab878ceb25bb3d85c6a076804e9c970c8c6972aea775fdf65"
+    },
+    {
+      "source": "lumio-assets/brand/09-production/fonts/lexend/OFL.txt",
+      "asset": "assets/brand/fonts/lexend/OFL.txt",
+      "sha256": "5da8505887d0fa7fe963445fd58852707fda34adfeb65af25c99d152bab285bd"
+    },
+    {
+      "source": "lumio-assets/brand/09-production/fonts/notosansarabic/OFL.txt",
+      "asset": "assets/brand/fonts/notosansarabic/OFL.txt",
+      "sha256": "07fc70bfeb985cc1a87a8587d0a0c80bab11c86c9dc3fd95b6f0cb332f983e96"
+    },
+    {
+      "source": "lumio-assets/brand/01-mascot/approved/lumi-mascot-reference.png",
+      "asset": "assets/brand/mascot/lumi-welcome.png",
+      "sha256": "d2b42a4165f7b9b988fa536fe64c0a264286de1c79c21b7bb83cf379545c65e2"
+    },
+    {
+      "source": "lumio-assets/brand/06-character/reactions/lumi-celebrating.png",
+      "asset": "assets/brand/mascot/lumi-celebrating.png",
+      "sha256": "f0898731f4697039149aeddddbb0d61880d3e03a29c5dd1df0566245da735bfb"
+    },
+    {
+      "source": "lumio-assets/brand/09-production/logos/lumio-wordmark-color.svg",
+      "asset": "assets/brand/logo/lumio-wordmark-color.svg",
+      "sha256": "e345177ba6aacb6ee491bef8fa534f478ed8988defd0341478f8f5cc648fccbc"
+    }
+  ],
+  "guide": "lumio-assets/brand/07-guidelines/Lumio-Brand-Guideline-v2.md"
+}

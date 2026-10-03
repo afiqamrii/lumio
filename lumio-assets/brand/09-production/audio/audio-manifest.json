@@ -1,0 +1,57 @@
+[
+  {
+    "id": "startup",
+    "file": "lumio-startup.wav",
+    "durationSeconds": 0.8,
+    "sampleRate": 44100,
+    "channels": 1,
+    "bitsPerSample": 16,
+    "peakDbFS": -15.13,
+    "origin": "original mathematical synthesis",
+    "status": "prototype cue; mix in app"
+  },
+  {
+    "id": "correct",
+    "file": "lumio-correct.wav",
+    "durationSeconds": 0.3,
+    "sampleRate": 44100,
+    "channels": 1,
+    "bitsPerSample": 16,
+    "peakDbFS": -16.23,
+    "origin": "original mathematical synthesis",
+    "status": "prototype cue; mix in app"
+  },
+  {
+    "id": "retry",
+    "file": "lumio-retry.wav",
+    "durationSeconds": 0.18,
+    "sampleRate": 44100,
+    "channels": 1,
+    "bitsPerSample": 16,
+    "peakDbFS": -19.41,
+    "origin": "original mathematical synthesis",
+    "status": "prototype cue; mix in app"
+  },
+  {
+    "id": "reward",
+    "file": "lumio-reward.wav",
+    "durationSeconds": 0.75,
+    "sampleRate": 44100,
+    "channels": 1,
+    "bitsPerSample": 16,
+    "peakDbFS": -16.49,
+    "origin": "original mathematical synthesis",
+    "status": "prototype cue; mix in app"
+  },
+  {
+    "id": "transition",
+    "file": "lumio-transition.wav",
+    "durationSeconds": 0.18,
+    "sampleRate": 44100,
+    "channels": 1,
+    "bitsPerSample": 16,
+    "peakDbFS": -23.54,
+    "origin": "original mathematical synthesis",
+    "status": "prototype cue; mix in app"
+  }
+]

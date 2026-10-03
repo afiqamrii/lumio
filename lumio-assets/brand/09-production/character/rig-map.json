@@ -1,0 +1,196 @@
+{
+  "version": 1,
+  "units": "SVG viewBox units",
+  "viewBox": [
+    120,
+    20,
+    1030,
+    1210
+  ],
+  "root": "torso",
+  "drawOrder": [
+    "tail-flame",
+    "tail",
+    "leg-left",
+    "leg-right",
+    "arm-left",
+    "hand-left",
+    "torso",
+    "belly",
+    "arm-right",
+    "hand-right",
+    "head",
+    "brow-left",
+    "brow-right",
+    "eye-left",
+    "eye-right",
+    "pupil-left",
+    "pupil-right",
+    "mouth"
+  ],
+  "parts": [
+    {
+      "id": "tail-flame",
+      "file": "parts/tail-flame.svg",
+      "pivot": [
+        1001,
+        760
+      ],
+      "parent": "tail"
+    },
+    {
+      "id": "tail",
+      "file": "parts/tail.svg",
+      "pivot": [
+        792,
+        971
+      ],
+      "parent": "torso"
+    },
+    {
+      "id": "leg-left",
+      "file": "parts/leg-left.svg",
+      "pivot": [
+        493,
+        1033
+      ],
+      "parent": "torso"
+    },
+    {
+      "id": "leg-right",
+      "file": "parts/leg-right.svg",
+      "pivot": [
+        671,
+        1029
+      ],
+      "parent": "torso"
+    },
+    {
+      "id": "arm-left",
+      "file": "parts/arm-left.svg",
+      "pivot": [
+        468,
+        720
+      ],
+      "parent": "torso"
+    },
+    {
+      "id": "hand-left",
+      "file": "parts/hand-left.svg",
+      "pivot": [
+        275,
+        635
+      ],
+      "parent": "arm-left"
+    },
+    {
+      "id": "torso",
+      "file": "parts/torso.svg",
+      "pivot": [
+        570,
+        859
+      ],
+      "parent": null
+    },
+    {
+      "id": "belly",
+      "file": "parts/belly.svg",
+      "pivot": [
+        549,
+        884
+      ],
+      "parent": "torso"
+    },
+    {
+      "id": "arm-right",
+      "file": "parts/arm-right.svg",
+      "pivot": [
+        671,
+        757
+      ],
+      "parent": "torso"
+    },
+    {
+      "id": "hand-right",
+      "file": "parts/hand-right.svg",
+      "pivot": [
+        758,
+        865
+      ],
+      "parent": "arm-right"
+    },
+    {
+      "id": "head",
+      "file": "parts/head.svg",
+      "pivot": [
+        594,
+        693
+      ],
+      "parent": "torso"
+    },
+    {
+      "id": "brow-left",
+      "file": "parts/brow-left.svg",
+      "pivot": [
+        506,
+        284
+      ],
+      "parent": "head"
+    },
+    {
+      "id": "brow-right",
+      "file": "parts/brow-right.svg",
+      "pivot": [
+        775,
+        341
+      ],
+      "parent": "head"
+    },
+    {
+      "id": "eye-left",
+      "file": "parts/eye-left.svg",
+      "pivot": [
+        474,
+        436
+      ],
+      "parent": "head"
+    },
+    {
+      "id": "eye-right",
+      "file": "parts/eye-right.svg",
+      "pivot": [
+        715,
+        486
+      ],
+      "parent": "head"
+    },
+    {
+      "id": "pupil-left",
+      "file": "parts/pupil-left.svg",
+      "pivot": [
+        484,
+        460
+      ],
+      "parent": "head"
+    },
+    {
+      "id": "pupil-right",
+      "file": "parts/pupil-right.svg",
+      "pivot": [
+        720,
+        508
+      ],
+      "parent": "head"
+    },
+    {
+      "id": "mouth",
+      "file": "parts/mouth.svg",
+      "pivot": [
+        569,
+        586
+      ],
+      "parent": "head"
+    }
+  ],
+  "note": "SVG source is a flat draw stack. Parent relationships here are rig assembly instructions; not an imported bone rig. All parts share the original coordinate frame."
+}

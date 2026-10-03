@@ -1,0 +1,5 @@
+@font-face{font-family:Nunito;src:url("nunito/Nunito[wght].ttf") format("truetype");font-weight:200 1000;font-display:swap}
+@font-face{font-family:Lexend;src:url("lexend/Lexend[wght].ttf") format("truetype");font-weight:100 900;font-display:swap}
+@font-face{font-family:"Noto Sans Arabic";src:url("notosansarabic/NotoSansArabic[wdth,wght].ttf") format("truetype");font-weight:100 900;font-stretch:normal;font-display:swap}
+:root{--font-display:Nunito,system-ui,sans-serif;--font-body:Lexend,system-ui,sans-serif;--font-arabic:"Noto Sans Arabic",sans-serif}
+:lang(ar){font-family:var(--font-arabic);line-height:1.65}

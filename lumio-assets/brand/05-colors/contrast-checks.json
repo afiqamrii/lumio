@@ -1,0 +1,72 @@
+[
+  {
+    "use": "Primary button",
+    "foreground": "#FFFFFF",
+    "background": "#7651D6",
+    "ratio": 5.359480618862311,
+    "passesNormalText4_5": true
+  },
+  {
+    "use": "Reward label",
+    "foreground": "#38234F",
+    "background": "#FFD34E",
+    "ratio": 9.64840396181439,
+    "passesNormalText4_5": true
+  },
+  {
+    "use": "Discovery panel",
+    "foreground": "#38234F",
+    "background": "#20C8C4",
+    "ratio": 6.651631227572598,
+    "passesNormalText4_5": true
+  },
+  {
+    "use": "Child body text",
+    "foreground": "#38234F",
+    "background": "#FFF4D9",
+    "ratio": 12.615612255857727,
+    "passesNormalText4_5": true
+  },
+  {
+    "use": "Secondary text",
+    "foreground": "#6A6275",
+    "background": "#FFFFFF",
+    "ratio": 5.806272669346688,
+    "passesNormalText4_5": true
+  },
+  {
+    "use": "Success message",
+    "foreground": "#216E53",
+    "background": "#FFFFFF",
+    "ratio": 6.140448895663763,
+    "passesNormalText4_5": true
+  },
+  {
+    "use": "Attention message",
+    "foreground": "#8A5700",
+    "background": "#FFFFFF",
+    "ratio": 6.09768011800454,
+    "passesNormalText4_5": true
+  },
+  {
+    "use": "Form error",
+    "foreground": "#A53345",
+    "background": "#FFFFFF",
+    "ratio": 6.646976095374931,
+    "passesNormalText4_5": true
+  },
+  {
+    "use": "Avoid white on turquoise",
+    "foreground": "#FFFFFF",
+    "background": "#20C8C4",
+    "ratio": 2.0750515910869054,
+    "passesNormalText4_5": false
+  },
+  {
+    "use": "Avoid white on gold",
+    "foreground": "#FFFFFF",
+    "background": "#FFD34E",
+    "ratio": 1.4305451986384594,
+    "passesNormalText4_5": false
+  }
+]

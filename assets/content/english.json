@@ -1,0 +1,806 @@
+{
+  "subjectId": "english",
+  "skills": [
+    {
+      "id": "english.letters.recognition",
+      "subjectId": "english",
+      "code": "letters_recognition",
+      "title": {
+        "en": "Letter recognition",
+        "ms": "Mengenal huruf"
+      },
+      "description": {
+        "en": "Practise letter recognition.",
+        "ms": "Berlatih mengenal huruf."
+      },
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "difficulty": "foundation",
+      "prerequisiteSkillIds": [],
+      "tags": [
+        "letters",
+        "recognition"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "english.letters.case_match",
+      "subjectId": "english",
+      "code": "letters_case_match",
+      "title": {
+        "en": "Uppercase and lowercase",
+        "ms": "Huruf besar dan huruf kecil"
+      },
+      "description": {
+        "en": "Practise uppercase and lowercase.",
+        "ms": "Berlatih huruf besar dan huruf kecil."
+      },
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "difficulty": "foundation",
+      "prerequisiteSkillIds": [
+        "english.letters.recognition"
+      ],
+      "tags": [
+        "letters",
+        "case_match"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "english.sounds.initial",
+      "subjectId": "english",
+      "code": "sounds_initial",
+      "title": {
+        "en": "Initial sounds",
+        "ms": "Bunyi awal"
+      },
+      "description": {
+        "en": "Practise initial sounds.",
+        "ms": "Berlatih bunyi awal."
+      },
+      "minimumAge": 5,
+      "recommendedAge": 6,
+      "difficulty": "developing",
+      "prerequisiteSkillIds": [
+        "english.letters.recognition"
+      ],
+      "tags": [
+        "sounds",
+        "initial"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "english.vocabulary.animals",
+      "subjectId": "english",
+      "code": "vocabulary_animals",
+      "title": {
+        "en": "Animal words",
+        "ms": "Perkataan haiwan"
+      },
+      "description": {
+        "en": "Practise animal words.",
+        "ms": "Berlatih perkataan haiwan."
+      },
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "difficulty": "foundation",
+      "prerequisiteSkillIds": [],
+      "tags": [
+        "vocabulary",
+        "animals"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "english.vocabulary.food",
+      "subjectId": "english",
+      "code": "vocabulary_food",
+      "title": {
+        "en": "Food words",
+        "ms": "Perkataan makanan"
+      },
+      "description": {
+        "en": "Practise food words.",
+        "ms": "Berlatih perkataan makanan."
+      },
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "difficulty": "foundation",
+      "prerequisiteSkillIds": [],
+      "tags": [
+        "vocabulary",
+        "food"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "english.vocabulary.colors",
+      "subjectId": "english",
+      "code": "vocabulary_colors",
+      "title": {
+        "en": "Colour words",
+        "ms": "Perkataan warna"
+      },
+      "description": {
+        "en": "Practise colour words.",
+        "ms": "Berlatih perkataan warna."
+      },
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "difficulty": "foundation",
+      "prerequisiteSkillIds": [],
+      "tags": [
+        "vocabulary",
+        "colors"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "english.vocabulary.actions",
+      "subjectId": "english",
+      "code": "vocabulary_actions",
+      "title": {
+        "en": "Action words",
+        "ms": "Perkataan perbuatan"
+      },
+      "description": {
+        "en": "Practise action words.",
+        "ms": "Berlatih perkataan perbuatan."
+      },
+      "minimumAge": 6,
+      "recommendedAge": 6,
+      "difficulty": "developing",
+      "prerequisiteSkillIds": [],
+      "tags": [
+        "vocabulary",
+        "actions"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "english.spelling.cvc",
+      "subjectId": "english",
+      "code": "spelling_cvc",
+      "title": {
+        "en": "Simple CVC spelling",
+        "ms": "Ejaan CVC mudah"
+      },
+      "description": {
+        "en": "Practise simple cvc spelling.",
+        "ms": "Berlatih ejaan cvc mudah."
+      },
+      "minimumAge": 6,
+      "recommendedAge": 6,
+      "difficulty": "developing",
+      "prerequisiteSkillIds": [
+        "english.sounds.initial"
+      ],
+      "tags": [
+        "spelling",
+        "cvc"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "english.spelling.short_words",
+      "subjectId": "english",
+      "code": "spelling_short_words",
+      "title": {
+        "en": "Common short words",
+        "ms": "Perkataan pendek lazim"
+      },
+      "description": {
+        "en": "Practise common short words.",
+        "ms": "Berlatih perkataan pendek lazim."
+      },
+      "minimumAge": 6,
+      "recommendedAge": 7,
+      "difficulty": "developing",
+      "prerequisiteSkillIds": [
+        "english.spelling.cvc"
+      ],
+      "tags": [
+        "spelling",
+        "short_words"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "english.sentences.word_order",
+      "subjectId": "english",
+      "code": "sentences_word_order",
+      "title": {
+        "en": "Basic word order",
+        "ms": "Susunan perkataan asas"
+      },
+      "description": {
+        "en": "Practise basic word order.",
+        "ms": "Berlatih susunan perkataan asas."
+      },
+      "minimumAge": 7,
+      "recommendedAge": 7,
+      "difficulty": "confident",
+      "prerequisiteSkillIds": [
+        "english.spelling.short_words"
+      ],
+      "tags": [
+        "sentences",
+        "word_order"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "english.reading.sentence",
+      "subjectId": "english",
+      "code": "reading_sentence",
+      "title": {
+        "en": "Simple sentence comprehension",
+        "ms": "Pemahaman ayat mudah"
+      },
+      "description": {
+        "en": "Practise simple sentence comprehension.",
+        "ms": "Berlatih pemahaman ayat mudah."
+      },
+      "minimumAge": 7,
+      "recommendedAge": 7,
+      "difficulty": "confident",
+      "prerequisiteSkillIds": [
+        "english.sentences.word_order"
+      ],
+      "tags": [
+        "reading",
+        "sentence"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "english.listening.instructions",
+      "subjectId": "english",
+      "code": "listening_instructions",
+      "title": {
+        "en": "Simple spoken instructions",
+        "ms": "Arahan lisan mudah"
+      },
+      "description": {
+        "en": "Practise simple spoken instructions.",
+        "ms": "Berlatih arahan lisan mudah."
+      },
+      "minimumAge": 6,
+      "recommendedAge": 7,
+      "difficulty": "developing",
+      "prerequisiteSkillIds": [
+        "english.vocabulary.actions"
+      ],
+      "tags": [
+        "listening",
+        "instructions"
+      ],
+      "isActive": true
+    }
+  ],
+  "content": [
+    {
+      "id": "english.letters.recognition.item_01",
+      "skillId": "english.letters.recognition",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Which is the letter B?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "B"
+        },
+        {
+          "id": "b",
+          "label": "D"
+        },
+        {
+          "id": "c",
+          "label": "P"
+        }
+      ],
+      "correctChoiceId": "a"
+    },
+    {
+      "id": "english.letters.recognition.item_02",
+      "skillId": "english.letters.recognition",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Which letter comes after C?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "B"
+        },
+        {
+          "id": "b",
+          "label": "D"
+        },
+        {
+          "id": "c",
+          "label": "E"
+        }
+      ],
+      "correctChoiceId": "b"
+    },
+    {
+      "id": "english.letters.case_match.item_03",
+      "skillId": "english.letters.case_match",
+      "type": "matching",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Match each capital letter to its small letter.",
+      "pairs": [
+        {
+          "left": "A",
+          "right": "a"
+        },
+        {
+          "left": "B",
+          "right": "b"
+        },
+        {
+          "left": "C",
+          "right": "c"
+        }
+      ]
+    },
+    {
+      "id": "english.letters.case_match.item_04",
+      "skillId": "english.letters.case_match",
+      "type": "multiple_choice",
+      "difficulty": "developing",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 6,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Which small letter matches G?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "g"
+        },
+        {
+          "id": "b",
+          "label": "q"
+        },
+        {
+          "id": "c",
+          "label": "p"
+        }
+      ],
+      "correctChoiceId": "a"
+    },
+    {
+      "id": "english.sounds.initial.item_05",
+      "skillId": "english.sounds.initial",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Which word begins with the /m/ sound?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "moon"
+        },
+        {
+          "id": "b",
+          "label": "sun"
+        },
+        {
+          "id": "c",
+          "label": "cat"
+        }
+      ],
+      "correctChoiceId": "a"
+    },
+    {
+      "id": "english.sounds.initial.item_06",
+      "skillId": "english.sounds.initial",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Which word begins with the /s/ sound?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "fish"
+        },
+        {
+          "id": "b",
+          "label": "sun"
+        },
+        {
+          "id": "c",
+          "label": "ball"
+        }
+      ],
+      "correctChoiceId": "b"
+    },
+    {
+      "id": "english.vocabulary.animals.item_07",
+      "skillId": "english.vocabulary.animals",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Which animal says meow?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "cat"
+        },
+        {
+          "id": "b",
+          "label": "cow"
+        },
+        {
+          "id": "c",
+          "label": "duck"
+        }
+      ],
+      "correctChoiceId": "a"
+    },
+    {
+      "id": "english.vocabulary.animals.item_08",
+      "skillId": "english.vocabulary.animals",
+      "type": "multiple_choice",
+      "difficulty": "developing",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 6,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Which animal has a long trunk?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "elephant"
+        },
+        {
+          "id": "b",
+          "label": "rabbit"
+        },
+        {
+          "id": "c",
+          "label": "turtle"
+        }
+      ],
+      "correctChoiceId": "a"
+    },
+    {
+      "id": "english.vocabulary.food.item_09",
+      "skillId": "english.vocabulary.food",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Which one is a fruit?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "apple"
+        },
+        {
+          "id": "b",
+          "label": "spoon"
+        },
+        {
+          "id": "c",
+          "label": "shoe"
+        }
+      ],
+      "correctChoiceId": "a"
+    },
+    {
+      "id": "english.vocabulary.food.item_10",
+      "skillId": "english.vocabulary.food",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Which food is made from rice?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "nasi"
+        },
+        {
+          "id": "b",
+          "label": "pencil"
+        },
+        {
+          "id": "c",
+          "label": "shirt"
+        }
+      ],
+      "correctChoiceId": "a"
+    },
+    {
+      "id": "english.vocabulary.colors.item_11",
+      "skillId": "english.vocabulary.colors",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "What colour is a ripe banana?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "yellow"
+        },
+        {
+          "id": "b",
+          "label": "purple"
+        },
+        {
+          "id": "c",
+          "label": "blue"
+        }
+      ],
+      "correctChoiceId": "a"
+    },
+    {
+      "id": "english.vocabulary.actions.item_12",
+      "skillId": "english.vocabulary.actions",
+      "type": "multiple_choice",
+      "difficulty": "developing",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 6,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Which word means moving quickly on your feet?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "run"
+        },
+        {
+          "id": "b",
+          "label": "sit"
+        },
+        {
+          "id": "c",
+          "label": "sleep"
+        }
+      ],
+      "correctChoiceId": "a"
+    },
+    {
+      "id": "english.spelling.cvc.item_13",
+      "skillId": "english.spelling.cvc",
+      "type": "build_word",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Build the word for a small pet that says meow.",
+      "targetWord": "cat",
+      "availableLetters": [
+        "c",
+        "a",
+        "t",
+        "m"
+      ]
+    },
+    {
+      "id": "english.spelling.cvc.item_14",
+      "skillId": "english.spelling.cvc",
+      "type": "build_word",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Build the word for the bright object in the sky.",
+      "targetWord": "sun",
+      "availableLetters": [
+        "s",
+        "u",
+        "n",
+        "b"
+      ]
+    },
+    {
+      "id": "english.spelling.short_words.item_15",
+      "skillId": "english.spelling.short_words",
+      "type": "build_word",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Build the word: ship.",
+      "targetWord": "ship",
+      "availableLetters": [
+        "s",
+        "h",
+        "i",
+        "p",
+        "t"
+      ]
+    },
+    {
+      "id": "english.sentences.word_order.item_16",
+      "skillId": "english.sentences.word_order",
+      "type": "ordering",
+      "difficulty": "developing",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 6,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Put the words in the correct order.",
+      "items": [
+        {
+          "id": "item_1",
+          "label": "I"
+        },
+        {
+          "id": "item_2",
+          "label": "can"
+        },
+        {
+          "id": "item_3",
+          "label": "jump"
+        }
+      ],
+      "correctOrder": [
+        "item_1",
+        "item_2",
+        "item_3"
+      ]
+    },
+    {
+      "id": "english.reading.sentence.item_17",
+      "skillId": "english.reading.sentence",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Mina has a red kite. What colour is the kite?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "red"
+        },
+        {
+          "id": "b",
+          "label": "green"
+        },
+        {
+          "id": "c",
+          "label": "blue"
+        }
+      ],
+      "correctChoiceId": "a"
+    },
+    {
+      "id": "english.listening.instructions.item_18",
+      "skillId": "english.listening.instructions",
+      "type": "audio_choice",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Listen and choose the matching action.",
+      "choices": [
+        {
+          "id": "a",
+          "label": "touch your nose"
+        },
+        {
+          "id": "b",
+          "label": "clap twice"
+        },
+        {
+          "id": "c",
+          "label": "sit down"
+        }
+      ],
+      "correctChoiceId": "a",
+      "audioAssetId": "audio.en.touch_nose"
+    }
+  ]
+}

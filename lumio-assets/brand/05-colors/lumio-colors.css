@@ -1,0 +1,36 @@
+/* Lumio palette v1 — sRGB. Exact proposed tokens; artwork not recolored. */
+:root {
+  --lumio-violet: #7651D6;
+  --lumio-gold: #FFD34E;
+  --lumio-turquoise: #20C8C4;
+  --lumio-lilac: #B8A0F2;
+  --lumio-aqua: #65E1D6;
+  --lumio-coral: #F47B7F;
+  --lumio-leaf: #43C59E;
+  --lumio-plum: #38234F;
+  --lumio-cream: #FFF4D9;
+  --lumio-white: #FFFFFF;
+  --lumio-mist: #F4F0FC;
+  --lumio-slate: #6A6275;
+  --lumio-violet-pressed: #5F3DB3;
+  --lumio-success-ink: #216E53;
+  --lumio-attention-ink: #8A5700;
+  --lumio-error-ink: #A53345;
+
+  --color-background: var(--lumio-cream);
+  --color-surface: var(--lumio-white);
+  --color-surface-subtle: var(--lumio-mist);
+  --color-text: var(--lumio-plum);
+  --color-text-secondary: var(--lumio-slate);
+  --color-primary: var(--lumio-violet);
+  --color-on-primary: var(--lumio-white);
+  --color-primary-pressed: var(--lumio-violet-pressed);
+  --color-reward: var(--lumio-gold);
+  --color-on-reward: var(--lumio-plum);
+  --color-discovery: var(--lumio-turquoise);
+  --color-on-discovery: var(--lumio-plum);
+  --color-success-text: var(--lumio-success-ink);
+  --color-attention-text: var(--lumio-attention-ink);
+  --color-error-text: var(--lumio-error-ink);
+  --color-focus-ring: var(--lumio-plum);
+}

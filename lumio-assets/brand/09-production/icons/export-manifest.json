@@ -1,0 +1,13 @@
+{
+  "source": "brand/04-app-icon/approved/lumio-app-icon.png",
+  "ios": "1024 opaque RGB PNG and universal AppIcon.appiconset; optional legacy sizes",
+  "android": "48dp legacy densities; 108dp foreground/background and monochrome densities; v26 and v33 adaptive XML",
+  "adaptiveForeground": "New transparent separation derived using image generation from approved wink icon",
+  "foregroundSafeRadiusDp": 31.9,
+  "web": "16/32/48 flame favicons; 180/192/512 mascot icons; webmanifest",
+  "deviceTested": false,
+  "sourceUrls": [
+    "https://developer.apple.com/documentation/xcode/configuring-your-app-icon",
+    "https://developer.android.com/develop/ui/compose/system/icon_design_adaptive"
+  ]
+}

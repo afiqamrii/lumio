@@ -1,0 +1,728 @@
+{
+  "subjectId": "discovery",
+  "skills": [
+    {
+      "id": "discovery.animals.identify",
+      "subjectId": "discovery",
+      "code": "animals_identify",
+      "title": {
+        "en": "Identify animals",
+        "ms": "Mengenal haiwan"
+      },
+      "description": {
+        "en": "Practise identify animals.",
+        "ms": "Berlatih mengenal haiwan."
+      },
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "difficulty": "foundation",
+      "prerequisiteSkillIds": [],
+      "tags": [
+        "animals",
+        "identify"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "discovery.animals.habitat",
+      "subjectId": "discovery",
+      "code": "animals_habitat",
+      "title": {
+        "en": "Animal habitats",
+        "ms": "Habitat haiwan"
+      },
+      "description": {
+        "en": "Practise animal habitats.",
+        "ms": "Berlatih habitat haiwan."
+      },
+      "minimumAge": 5,
+      "recommendedAge": 6,
+      "difficulty": "developing",
+      "prerequisiteSkillIds": [
+        "discovery.animals.identify"
+      ],
+      "tags": [
+        "animals",
+        "habitat"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "discovery.animals.characteristics",
+      "subjectId": "discovery",
+      "code": "animals_characteristics",
+      "title": {
+        "en": "Animal characteristics",
+        "ms": "Ciri-ciri haiwan"
+      },
+      "description": {
+        "en": "Practise animal characteristics.",
+        "ms": "Berlatih ciri-ciri haiwan."
+      },
+      "minimumAge": 6,
+      "recommendedAge": 6,
+      "difficulty": "developing",
+      "prerequisiteSkillIds": [
+        "discovery.animals.identify"
+      ],
+      "tags": [
+        "animals",
+        "characteristics"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "discovery.nature.plant_needs",
+      "subjectId": "discovery",
+      "code": "nature_plant_needs",
+      "title": {
+        "en": "What plants need",
+        "ms": "Keperluan tumbuhan"
+      },
+      "description": {
+        "en": "Practise what plants need.",
+        "ms": "Berlatih keperluan tumbuhan."
+      },
+      "minimumAge": 5,
+      "recommendedAge": 6,
+      "difficulty": "foundation",
+      "prerequisiteSkillIds": [],
+      "tags": [
+        "nature",
+        "plant_needs"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "discovery.nature.weather",
+      "subjectId": "discovery",
+      "code": "nature_weather",
+      "title": {
+        "en": "Weather basics",
+        "ms": "Asas cuaca"
+      },
+      "description": {
+        "en": "Practise weather basics.",
+        "ms": "Berlatih asas cuaca."
+      },
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "difficulty": "foundation",
+      "prerequisiteSkillIds": [],
+      "tags": [
+        "nature",
+        "weather"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "discovery.nature.day_night",
+      "subjectId": "discovery",
+      "code": "nature_day_night",
+      "title": {
+        "en": "Day and night",
+        "ms": "Siang dan malam"
+      },
+      "description": {
+        "en": "Practise day and night.",
+        "ms": "Berlatih siang dan malam."
+      },
+      "minimumAge": 5,
+      "recommendedAge": 6,
+      "difficulty": "foundation",
+      "prerequisiteSkillIds": [],
+      "tags": [
+        "nature",
+        "day_night"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "discovery.body.parts",
+      "subjectId": "discovery",
+      "code": "body_parts",
+      "title": {
+        "en": "Major body parts",
+        "ms": "Anggota badan utama"
+      },
+      "description": {
+        "en": "Practise major body parts.",
+        "ms": "Berlatih anggota badan utama."
+      },
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "difficulty": "foundation",
+      "prerequisiteSkillIds": [],
+      "tags": [
+        "body",
+        "parts"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "discovery.body.organs",
+      "subjectId": "discovery",
+      "code": "body_organs",
+      "title": {
+        "en": "Major organs",
+        "ms": "Organ utama"
+      },
+      "description": {
+        "en": "Practise major organs.",
+        "ms": "Berlatih organ utama."
+      },
+      "minimumAge": 7,
+      "recommendedAge": 8,
+      "difficulty": "confident",
+      "prerequisiteSkillIds": [
+        "discovery.body.parts"
+      ],
+      "tags": [
+        "body",
+        "organs"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "discovery.space.sun_moon_earth",
+      "subjectId": "discovery",
+      "code": "space_sun_moon_earth",
+      "title": {
+        "en": "Sun, Moon and Earth",
+        "ms": "Matahari, Bulan dan Bumi"
+      },
+      "description": {
+        "en": "Practise sun, moon and earth.",
+        "ms": "Berlatih matahari, bulan dan bumi."
+      },
+      "minimumAge": 6,
+      "recommendedAge": 6,
+      "difficulty": "developing",
+      "prerequisiteSkillIds": [
+        "discovery.nature.day_night"
+      ],
+      "tags": [
+        "space",
+        "sun_moon_earth"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "discovery.knowledge.transport",
+      "subjectId": "discovery",
+      "code": "knowledge_transport",
+      "title": {
+        "en": "Transport",
+        "ms": "Pengangkutan"
+      },
+      "description": {
+        "en": "Practise transport.",
+        "ms": "Berlatih pengangkutan."
+      },
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "difficulty": "foundation",
+      "prerequisiteSkillIds": [],
+      "tags": [
+        "knowledge",
+        "transport"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "discovery.health.food",
+      "subjectId": "discovery",
+      "code": "health_food",
+      "title": {
+        "en": "Healthy food basics",
+        "ms": "Asas makanan sihat"
+      },
+      "description": {
+        "en": "Practise healthy food basics.",
+        "ms": "Berlatih asas makanan sihat."
+      },
+      "minimumAge": 5,
+      "recommendedAge": 6,
+      "difficulty": "foundation",
+      "prerequisiteSkillIds": [],
+      "tags": [
+        "health",
+        "food"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "discovery.safety.everyday",
+      "subjectId": "discovery",
+      "code": "safety_everyday",
+      "title": {
+        "en": "Everyday safety",
+        "ms": "Keselamatan harian"
+      },
+      "description": {
+        "en": "Practise everyday safety.",
+        "ms": "Berlatih keselamatan harian."
+      },
+      "minimumAge": 5,
+      "recommendedAge": 6,
+      "difficulty": "foundation",
+      "prerequisiteSkillIds": [],
+      "tags": [
+        "safety",
+        "everyday"
+      ],
+      "isActive": true
+    }
+  ],
+  "content": [
+    {
+      "id": "discovery.animals.identify.item_01",
+      "skillId": "discovery.animals.identify",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Which animal has feathers?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "bird"
+        },
+        {
+          "id": "b",
+          "label": "cat"
+        },
+        {
+          "id": "c",
+          "label": "fish"
+        }
+      ],
+      "correctChoiceId": "a"
+    },
+    {
+      "id": "discovery.animals.identify.item_02",
+      "skillId": "discovery.animals.identify",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Which animal lives in water and has fins?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "fish"
+        },
+        {
+          "id": "b",
+          "label": "rabbit"
+        },
+        {
+          "id": "c",
+          "label": "ant"
+        }
+      ],
+      "correctChoiceId": "a"
+    },
+    {
+      "id": "discovery.animals.habitat.item_03",
+      "skillId": "discovery.animals.habitat",
+      "type": "matching",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Match each animal to its home.",
+      "pairs": [
+        {
+          "left": "fish",
+          "right": "water"
+        },
+        {
+          "left": "bird",
+          "right": "nest"
+        },
+        {
+          "left": "bee",
+          "right": "hive"
+        }
+      ]
+    },
+    {
+      "id": "discovery.animals.characteristics.item_04",
+      "skillId": "discovery.animals.characteristics",
+      "type": "multiple_choice",
+      "difficulty": "developing",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 6,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Which animal has a shell?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "turtle"
+        },
+        {
+          "id": "b",
+          "label": "tiger"
+        },
+        {
+          "id": "c",
+          "label": "monkey"
+        }
+      ],
+      "correctChoiceId": "a"
+    },
+    {
+      "id": "discovery.nature.plant_needs.item_05",
+      "skillId": "discovery.nature.plant_needs",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "What does a plant need to grow?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "water and light"
+        },
+        {
+          "id": "b",
+          "label": "plastic toys"
+        },
+        {
+          "id": "c",
+          "label": "paint"
+        }
+      ],
+      "correctChoiceId": "a"
+    },
+    {
+      "id": "discovery.nature.plant_needs.item_06",
+      "skillId": "discovery.nature.plant_needs",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Which part usually takes in water from soil?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "roots"
+        },
+        {
+          "id": "b",
+          "label": "flowers"
+        },
+        {
+          "id": "c",
+          "label": "fruit"
+        }
+      ],
+      "correctChoiceId": "a"
+    },
+    {
+      "id": "discovery.nature.weather.item_07",
+      "skillId": "discovery.nature.weather",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Which weather brings drops of water from clouds?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "rainy"
+        },
+        {
+          "id": "b",
+          "label": "sunny"
+        },
+        {
+          "id": "c",
+          "label": "windless"
+        }
+      ],
+      "correctChoiceId": "a"
+    },
+    {
+      "id": "discovery.nature.day_night.item_08",
+      "skillId": "discovery.nature.day_night",
+      "type": "multiple_choice",
+      "difficulty": "developing",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 6,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "When can we usually see the Sun clearly?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "day"
+        },
+        {
+          "id": "b",
+          "label": "night"
+        },
+        {
+          "id": "c",
+          "label": "midnight"
+        }
+      ],
+      "correctChoiceId": "a"
+    },
+    {
+      "id": "discovery.body.parts.item_09",
+      "skillId": "discovery.body.parts",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Which body part helps you hear?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "ears"
+        },
+        {
+          "id": "b",
+          "label": "elbows"
+        },
+        {
+          "id": "c",
+          "label": "knees"
+        }
+      ],
+      "correctChoiceId": "a"
+    },
+    {
+      "id": "discovery.body.organs.item_10",
+      "skillId": "discovery.body.organs",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Which organ pumps blood around the body?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "heart"
+        },
+        {
+          "id": "b",
+          "label": "stomach"
+        },
+        {
+          "id": "c",
+          "label": "skin"
+        }
+      ],
+      "correctChoiceId": "a"
+    },
+    {
+      "id": "discovery.space.sun_moon_earth.item_11",
+      "skillId": "discovery.space.sun_moon_earth",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Which object gives Earth light during the day?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Sun"
+        },
+        {
+          "id": "b",
+          "label": "Moon"
+        },
+        {
+          "id": "c",
+          "label": "cloud"
+        }
+      ],
+      "correctChoiceId": "a"
+    },
+    {
+      "id": "discovery.space.sun_moon_earth.item_12",
+      "skillId": "discovery.space.sun_moon_earth",
+      "type": "multiple_choice",
+      "difficulty": "developing",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 6,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Which planet is our home?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Earth"
+        },
+        {
+          "id": "b",
+          "label": "Mars"
+        },
+        {
+          "id": "c",
+          "label": "Jupiter"
+        }
+      ],
+      "correctChoiceId": "a"
+    },
+    {
+      "id": "discovery.knowledge.transport.item_13",
+      "skillId": "discovery.knowledge.transport",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Which vehicle travels on railway tracks?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "train"
+        },
+        {
+          "id": "b",
+          "label": "boat"
+        },
+        {
+          "id": "c",
+          "label": "bicycle"
+        }
+      ],
+      "correctChoiceId": "a"
+    },
+    {
+      "id": "discovery.health.food.item_14",
+      "skillId": "discovery.health.food",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Which is a healthy everyday drink?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "water"
+        },
+        {
+          "id": "b",
+          "label": "fizzy drink"
+        },
+        {
+          "id": "c",
+          "label": "syrup"
+        }
+      ],
+      "correctChoiceId": "a"
+    },
+    {
+      "id": "discovery.safety.everyday.item_15",
+      "skillId": "discovery.safety.everyday",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "What should you do before crossing a road with an adult?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "stop, look and listen"
+        },
+        {
+          "id": "b",
+          "label": "run quickly"
+        },
+        {
+          "id": "c",
+          "label": "close your eyes"
+        }
+      ],
+      "correctChoiceId": "a"
+    }
+  ]
+}

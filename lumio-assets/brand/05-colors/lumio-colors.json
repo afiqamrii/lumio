@@ -1,0 +1,241 @@
+{
+  "name": "Lumio",
+  "version": "1.0.0",
+  "status": "proposed palette for approval",
+  "colorSpace": "sRGB",
+  "note": "Exact forward-looking design values; generated artwork contains color variation and has not been recolored.",
+  "palette": {
+    "violet": {
+      "name": "Lumio Violet",
+      "hex": "#7651D6",
+      "rgb": [
+        118,
+        81,
+        214
+      ],
+      "group": "Primary",
+      "use": "Wordmark, main buttons, selected states"
+    },
+    "gold": {
+      "name": "Glow Gold",
+      "hex": "#FFD34E",
+      "rgb": [
+        255,
+        211,
+        78
+      ],
+      "group": "Primary",
+      "use": "Tail, rewards, achievement accents"
+    },
+    "turquoise": {
+      "name": "Discovery Turquoise",
+      "hex": "#20C8C4",
+      "rgb": [
+        32,
+        200,
+        196
+      ],
+      "group": "Primary",
+      "use": "App icon, discovery panels, world accents"
+    },
+    "lilac": {
+      "name": "Soft Lilac",
+      "hex": "#B8A0F2",
+      "rgb": [
+        184,
+        160,
+        242
+      ],
+      "group": "Supporting",
+      "use": "Belly patch, gentle purple illustration accents"
+    },
+    "aqua": {
+      "name": "Fresh Aqua",
+      "hex": "#65E1D6",
+      "rgb": [
+        101,
+        225,
+        214
+      ],
+      "group": "Supporting",
+      "use": "Icon sweep, calm decorative backgrounds"
+    },
+    "coral": {
+      "name": "Play Coral",
+      "hex": "#F47B7F",
+      "rgb": [
+        244,
+        123,
+        127
+      ],
+      "group": "Supporting",
+      "use": "Warm illustration accents, character expression"
+    },
+    "leaf": {
+      "name": "Leaf Green",
+      "hex": "#43C59E",
+      "rgb": [
+        67,
+        197,
+        158
+      ],
+      "group": "Supporting",
+      "use": "Nature worlds, progress decoration"
+    },
+    "plum": {
+      "name": "Ink Plum",
+      "hex": "#38234F",
+      "rgb": [
+        56,
+        35,
+        79
+      ],
+      "group": "Neutral",
+      "use": "Main text, mascot outlines, meaningful icons"
+    },
+    "cream": {
+      "name": "Warm Cream",
+      "hex": "#FFF4D9",
+      "rgb": [
+        255,
+        244,
+        217
+      ],
+      "group": "Neutral",
+      "use": "Welcoming child screens and reading surfaces"
+    },
+    "white": {
+      "name": "Clear White",
+      "hex": "#FFFFFF",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "group": "Neutral",
+      "use": "Content cards and clean parent surfaces"
+    },
+    "mist": {
+      "name": "Lilac Mist",
+      "hex": "#F4F0FC",
+      "rgb": [
+        244,
+        240,
+        252
+      ],
+      "group": "Neutral",
+      "use": "Subtle page backgrounds and grouped sections"
+    },
+    "slate": {
+      "name": "Quiet Slate",
+      "hex": "#6A6275",
+      "rgb": [
+        106,
+        98,
+        117
+      ],
+      "group": "Neutral",
+      "use": "Secondary text and supporting descriptions"
+    }
+  },
+  "functional": {
+    "violet-pressed": {
+      "hex": "#5F3DB3",
+      "rgb": [
+        95,
+        61,
+        179
+      ]
+    },
+    "success-ink": {
+      "hex": "#216E53",
+      "rgb": [
+        33,
+        110,
+        83
+      ]
+    },
+    "attention-ink": {
+      "hex": "#8A5700",
+      "rgb": [
+        138,
+        87,
+        0
+      ]
+    },
+    "error-ink": {
+      "hex": "#A53345",
+      "rgb": [
+        165,
+        51,
+        69
+      ]
+    }
+  },
+  "semantic": {
+    "background": {
+      "ref": "cream",
+      "hex": "#FFF4D9"
+    },
+    "surface": {
+      "ref": "white",
+      "hex": "#FFFFFF"
+    },
+    "surface-subtle": {
+      "ref": "mist",
+      "hex": "#F4F0FC"
+    },
+    "text": {
+      "ref": "plum",
+      "hex": "#38234F"
+    },
+    "text-secondary": {
+      "ref": "slate",
+      "hex": "#6A6275"
+    },
+    "primary": {
+      "ref": "violet",
+      "hex": "#7651D6"
+    },
+    "on-primary": {
+      "ref": "white",
+      "hex": "#FFFFFF"
+    },
+    "primary-pressed": {
+      "ref": "violet-pressed",
+      "hex": "#5F3DB3"
+    },
+    "reward": {
+      "ref": "gold",
+      "hex": "#FFD34E"
+    },
+    "on-reward": {
+      "ref": "plum",
+      "hex": "#38234F"
+    },
+    "discovery": {
+      "ref": "turquoise",
+      "hex": "#20C8C4"
+    },
+    "on-discovery": {
+      "ref": "plum",
+      "hex": "#38234F"
+    },
+    "success-text": {
+      "ref": "success-ink",
+      "hex": "#216E53"
+    },
+    "attention-text": {
+      "ref": "attention-ink",
+      "hex": "#8A5700"
+    },
+    "error-text": {
+      "ref": "error-ink",
+      "hex": "#A53345"
+    },
+    "focus-ring": {
+      "ref": "plum",
+      "hex": "#38234F"
+    }
+  }
+}

@@ -1,0 +1,609 @@
+Create a complete visual brand identity system for a children's educational game app called **Lumio**.
+
+## 1. Brand overview
+
+**Brand name:** Lumio
+
+**Tagline:** Play. Learn. Glow.
+
+**Product:** A mobile educational game app for children aged approximately 5–9.
+
+Lumio combines learning and play through animated mini-games, adventure worlds, rewards, progression, and a friendly mascot.
+
+The learning areas include:
+- Mathematics
+- English
+- Bahasa Melayu
+- Arabic
+- Logic and problem solving
+- General knowledge / science
+
+The product should feel like an actual game children want to play, while still looking trustworthy and valuable to parents.
+
+## 2. Brand positioning
+
+Lumio represents:
+
+**Light + curiosity + discovery + growth + learning through play.**
+
+The core idea is:
+
+> Every time a child learns, their world becomes brighter.
+
+The brand should feel:
+- playful
+- friendly
+- imaginative
+- intelligent
+- safe
+- warm
+- modern
+- premium
+- energetic
+- highly memorable
+
+Avoid making it:
+- overly childish or babyish
+- generic preschool branding
+- overly academic
+- corporate
+- cluttered
+- overstimulating
+- derivative of existing educational brands
+
+The identity must feel original and ownable.
+
+## 3. Target audience
+
+### Primary user
+Children aged 5–9.
+
+The branding must be exciting and recognisable to children.
+
+### Buyer
+Parents.
+
+Parents should perceive Lumio as:
+- educational
+- trustworthy
+- polished
+- safe
+- worth paying for
+
+The visual system therefore needs to balance playful child appeal with a professional, premium feel.
+
+## 4. Mascot
+
+Create an original mascot called:
+
+# Lumi
+
+Lumi is Lumio's main companion and guide.
+
+Lumi should NOT simply be a normal existing animal such as an owl, panda, cat, rabbit, or bear.
+
+Instead, Lumi should be an original **glowing light-sprite creature** with subtle animal-like qualities.
+
+Lumi represents:
+- curiosity
+- light
+- encouragement
+- discovery
+- friendship
+
+### Physical design direction
+
+Lumi should have:
+- a simple, recognisable silhouette
+- soft rounded proportions
+- large expressive eyes
+- small body
+- expressive hands or tiny arms
+- playful movement potential
+- a glowing element
+- a signature visual feature
+
+Possible signature features:
+- glowing forehead spark
+- glowing tail tip
+- floating light orb
+- star-shaped glow
+- glowing chest mark
+- small luminous antenna
+
+Choose ONE clear signature feature rather than combining too many details.
+
+Lumi should look easy to animate.
+
+The mascot must support expressions such as:
+- happy
+- excited
+- curious
+- thinking
+- surprised
+- proud
+- confused
+- sleepy
+- celebrating
+
+Lumi should feel lovable enough that children could eventually want:
+- stickers
+- plush toys
+- merchandise
+- profile avatars
+
+Avoid making Lumi look:
+- creepy
+- overly detailed
+- photorealistic
+- like an existing famous character
+- like a generic stock mascot
+
+## 5. Logo concepts required
+
+Produce a complete logo family rather than one logo only.
+
+Create all of the following:
+
+### A. Primary combination logo
+Lumio wordmark + Lumi mascot.
+
+This is the main brand logo.
+
+Explore compositions such as:
+- Lumi next to the wordmark
+- Lumi sitting above one of the letters
+- Lumi interacting with the letter “i”
+- Lumi peeking through or around the “o”
+
+Keep the composition simple and professional.
+
+### B. Typography-only logo
+Create a standalone **Lumio** wordmark without the mascot.
+
+The wordmark should:
+- use rounded custom typography
+- feel friendly and modern
+- remain readable at small sizes
+- have slightly playful letterforms
+- avoid looking like generic bubble lettering
+
+Explore whether:
+- the dot of the “i” becomes a glowing spark
+- the “o” becomes a subtle light orb
+
+Do not overdecorate the typography.
+
+### C. Mascot-only mark
+Create a standalone simplified Lumi icon.
+
+It must work for:
+- app icon
+- favicon
+- social avatar
+- loading screen
+- stickers
+
+The silhouette should remain recognisable even at very small sizes.
+
+### D. Symbol-only logo
+Explore a simplified abstract Lumio symbol based on:
+- light
+- spark
+- glow
+- learning
+- discovery
+
+It must NOT simply be a generic lightbulb.
+
+Possible inspiration:
+- glowing orb
+- spark
+- luminous path
+- abstract “L”
+- star-like learning symbol
+
+### E. Horizontal logo
+Lumi + Lumio wordmark in a wide horizontal layout.
+
+### F. Vertical logo
+Lumi above the Lumio wordmark.
+
+### G. Monochrome logo
+Create black-only and white-only versions suitable for printing and accessibility.
+
+## 6. App icon
+
+Create a highly recognisable app icon.
+
+Preferred direction:
+
+Lumi's face or simplified head on a bold clean background.
+
+Requirements:
+- readable at small mobile sizes
+- no tiny details
+- strong silhouette
+- friendly facial expression
+- instantly recognisable
+- looks good on both Android and iOS
+- no text inside the icon unless absolutely necessary
+
+The icon should not look like a generic educational app.
+
+## 7. Color palette
+
+Create a complete brand palette.
+
+### Suggested primary direction
+
+#### Lumio Glow
+Warm golden yellow.
+
+Represents:
+- light
+- achievement
+- discovery
+- happiness
+
+#### Lumio Sky
+Friendly blue or turquoise.
+
+Represents:
+- trust
+- openness
+- calm
+- technology
+
+### Supporting colors
+
+Introduce controlled supporting colors such as:
+- coral
+- soft purple
+- green
+- warm cream
+- dark navy / charcoal
+
+Avoid using every bright color equally.
+
+The palette should feel cohesive and intentional.
+
+Provide:
+- primary colors
+- secondary colors
+- neutral colors
+- HEX values
+- RGB values
+
+Also explain what each color should be used for.
+
+## 8. Typography system
+
+Recommend a typography system for Lumio.
+
+Need:
+- playful display typeface for headings
+- highly readable UI typeface
+- appropriate numeric type for maths games
+
+Typography must:
+- support children learning to read
+- have clear letterforms
+- avoid confusing lowercase characters
+- work well for English and Bahasa Melayu
+
+Consider future Arabic-script compatibility in the broader UI system.
+
+Avoid overly decorative fonts for educational content.
+
+## 9. Illustration style
+
+Define an illustration system.
+
+Recommended characteristics:
+- rounded shapes
+- soft depth
+- bright but controlled colors
+- simple shading
+- expressive characters
+- clean outlines or outline-free soft vector style
+- subtle gradients where appropriate
+
+The style should work for:
+- game characters
+- maps
+- animals
+- objects
+- buildings
+- rewards
+- educational illustrations
+
+Avoid:
+- photorealism
+- overly complex textures
+- generic stock illustration
+- excessive visual clutter
+
+## 10. Animation language
+
+Define how the brand should move.
+
+Lumio is an animation-rich product.
+
+Animation principles:
+- squash and stretch
+- soft bouncing
+- quick anticipation
+- glowing trails
+- spark particles
+- smooth world transitions
+- celebratory micro-animations
+- expressive mascot reactions
+
+Interactions should feel responsive.
+
+Examples:
+- button slightly compresses when tapped
+- correct answer creates a short glow pulse
+- stars fly into the progress counter
+- Lumi jumps when a skill is completed
+- unlocking a world creates a gentle burst of light
+
+Avoid excessive animation that distracts from learning.
+
+## 11. Sound identity
+
+Define a high-level sound branding direction.
+
+Lumio should have a recognisable audio identity.
+
+Include ideas for:
+- app startup chime
+- correct-answer sound
+- wrong-answer sound
+- reward sound
+- world unlock sound
+- transition sound
+- Lumi vocal reactions
+
+Lumi's vocal reactions can be short non-verbal sounds such as:
+- “ooh!”
+- “hmm!”
+- “yay!”
+- surprised gasp
+
+Keep sounds:
+- warm
+- short
+- non-annoying
+- pleasant after repeated use
+
+## 12. Visual worlds
+
+The identity should support multiple themed learning areas.
+
+Examples:
+
+### Number Kingdom
+Maths.
+
+Visual inspiration:
+- castles
+- geometric landscapes
+- numbered pathways
+- bridges
+
+### Word Woods
+English.
+
+Visual inspiration:
+- enchanted forest
+- books
+- letters
+- signs
+- storytelling creatures
+
+### Language Village
+Bahasa Melayu.
+
+Visual inspiration:
+- friendly town
+- homes
+- markets
+- daily-life vocabulary
+
+### Arabic Oasis
+Arabic.
+
+Visual inspiration:
+- oasis
+- lanterns
+- stars
+- desert
+- architecture-inspired shapes
+
+Be culturally respectful and avoid stereotypes.
+
+### Logic Lab
+Logic and computational thinking.
+
+Visual inspiration:
+- robots
+- gears
+- circuits
+- playful machines
+
+### Discovery Island
+Science and general knowledge.
+
+Visual inspiration:
+- nature
+- animals
+- volcanoes
+- observatory
+- exploration
+
+Each world should look unique while still clearly belonging to Lumio.
+
+## 13. UI design direction
+
+Create example UI directions for:
+
+### Child home screen
+- character / mascot
+- world map
+- daily learning goal
+- stars
+- coins
+- simple navigation
+
+### Game screen
+- minimal distractions
+- large touch targets
+- clear question
+- interactive content
+- mascot feedback
+- progression indicator
+
+### Level complete screen
+- celebratory animation
+- stars
+- rewards
+- progress
+- next mission
+
+### Parent dashboard
+Use a calmer visual treatment.
+
+Show:
+- learning time
+- progress
+- strengths
+- skills requiring practice
+- subject breakdown
+- child profiles
+
+Parent mode should feel clearly connected to Lumio while being more mature and data-focused.
+
+## 14. Accessibility
+
+Brand design must support:
+- strong contrast
+- clear text
+- large touch targets
+- color not being the only source of information
+- readable typography
+- reduced-motion mode
+- sound-off usability
+
+Do not rely solely on red/green for correct and incorrect responses.
+
+## 15. Brand tone
+
+Lumio's communication style should be:
+
+Encouraging:
+“Great try!”
+
+Curious:
+“What happens if we try this?”
+
+Celebratory:
+“You unlocked something new!”
+
+Supportive:
+“Almost there. Let's try again.”
+
+Never shame the child.
+
+Avoid:
+- “WRONG!”
+- “FAILED!”
+- “You lost!”
+- harsh negative sounds
+
+## 16. Deliverables
+
+Produce the following:
+
+1. Full-color primary logo
+2. Wordmark-only Lumio logo
+3. Mascot + wordmark logo
+4. Lumi mascot-only mark
+5. Abstract Lumio symbol
+6. Horizontal logo
+7. Vertical logo
+8. Black logo
+9. White logo
+10. App icon
+11. Favicon concept
+12. Primary color palette
+13. Secondary palette
+14. Typography recommendations
+15. Lumi character sheet
+16. Lumi expressions sheet
+17. Lumi pose sheet
+18. Logo clear-space rules
+19. Minimum logo size rules
+20. Incorrect logo usage examples
+21. UI button examples
+22. Child-screen example
+23. Parent-dashboard visual example
+24. Loading screen concept
+25. Reward/achievement visual style
+26. Basic illustration guide
+27. Animation/motion principles
+28. Sound-brand direction
+29. Social profile/avatar version
+30. Simple brand guideline board
+
+## 17. Important originality requirement
+
+Do not reproduce, imitate, trace, or closely resemble:
+- Duolingo
+- Khan Academy Kids
+- ABCmouse
+- Lingokids
+- Pok Pok
+- Sago Mini
+- or other existing educational brands.
+
+Use them only as general market context regarding quality and polish.
+
+Lumio must have its own:
+- silhouette
+- visual personality
+- mascot
+- typography
+- color language
+- brand world
+
+The final result should feel like a brand that could stand independently beside major children's apps.
+
+## 18. Final creative direction
+
+The overall feeling should be:
+
+**A magical learning universe powered by curiosity and light.**
+
+A child should see Lumio and think:
+
+> “I want to play this.”
+
+A parent should see Lumio and think:
+
+> “This looks safe, educational, thoughtful, and professionally made.”
+
+The brand should be suitable for long-term expansion into:
+- mobile apps
+- tablets
+- web
+- educational content
+- books
+- stickers
+- plush toys
+- merchandise
+- schools
+- global markets
+
+Create multiple distinct visual concepts first, then recommend the strongest direction while preserving Lumio's originality.

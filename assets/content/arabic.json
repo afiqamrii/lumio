@@ -1,0 +1,846 @@
+{
+  "subjectId": "arabic",
+  "skills": [
+    {
+      "id": "arabic.letters.isolated",
+      "subjectId": "arabic",
+      "code": "letters_isolated",
+      "title": {
+        "en": "Isolated Arabic letters",
+        "ms": "Huruf Arab tunggal"
+      },
+      "description": {
+        "en": "Practise isolated arabic letters.",
+        "ms": "Berlatih huruf arab tunggal."
+      },
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "difficulty": "foundation",
+      "prerequisiteSkillIds": [],
+      "tags": [
+        "letters",
+        "isolated"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "arabic.letters.similar",
+      "subjectId": "arabic",
+      "code": "letters_similar",
+      "title": {
+        "en": "Similar Arabic letters",
+        "ms": "Huruf Arab yang hampir sama"
+      },
+      "description": {
+        "en": "Practise similar arabic letters.",
+        "ms": "Berlatih huruf arab yang hampir sama."
+      },
+      "minimumAge": 5,
+      "recommendedAge": 6,
+      "difficulty": "developing",
+      "prerequisiteSkillIds": [
+        "arabic.letters.isolated"
+      ],
+      "tags": [
+        "letters",
+        "similar"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "arabic.sounds.identify",
+      "subjectId": "arabic",
+      "code": "sounds_identify",
+      "title": {
+        "en": "Identify a letter from its sound",
+        "ms": "Kenal huruf melalui bunyi"
+      },
+      "description": {
+        "en": "Practise identify a letter from its sound.",
+        "ms": "Berlatih kenal huruf melalui bunyi."
+      },
+      "minimumAge": 5,
+      "recommendedAge": 6,
+      "difficulty": "developing",
+      "prerequisiteSkillIds": [
+        "arabic.letters.isolated"
+      ],
+      "tags": [
+        "sounds",
+        "identify"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "arabic.forms.beginning",
+      "subjectId": "arabic",
+      "code": "forms_beginning",
+      "title": {
+        "en": "Beginning letter forms",
+        "ms": "Bentuk huruf di awal"
+      },
+      "description": {
+        "en": "Practise beginning letter forms.",
+        "ms": "Berlatih bentuk huruf di awal."
+      },
+      "minimumAge": 7,
+      "recommendedAge": 7,
+      "difficulty": "confident",
+      "prerequisiteSkillIds": [
+        "arabic.letters.similar"
+      ],
+      "tags": [
+        "forms",
+        "beginning"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "arabic.forms.middle",
+      "subjectId": "arabic",
+      "code": "forms_middle",
+      "title": {
+        "en": "Middle letter forms",
+        "ms": "Bentuk huruf di tengah"
+      },
+      "description": {
+        "en": "Practise middle letter forms.",
+        "ms": "Berlatih bentuk huruf di tengah."
+      },
+      "minimumAge": 7,
+      "recommendedAge": 8,
+      "difficulty": "confident",
+      "prerequisiteSkillIds": [
+        "arabic.forms.beginning"
+      ],
+      "tags": [
+        "forms",
+        "middle"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "arabic.forms.end",
+      "subjectId": "arabic",
+      "code": "forms_end",
+      "title": {
+        "en": "Ending letter forms",
+        "ms": "Bentuk huruf di akhir"
+      },
+      "description": {
+        "en": "Practise ending letter forms.",
+        "ms": "Berlatih bentuk huruf di akhir."
+      },
+      "minimumAge": 7,
+      "recommendedAge": 8,
+      "difficulty": "confident",
+      "prerequisiteSkillIds": [
+        "arabic.forms.middle"
+      ],
+      "tags": [
+        "forms",
+        "end"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "arabic.vocabulary.animals",
+      "subjectId": "arabic",
+      "code": "vocabulary_animals",
+      "title": {
+        "en": "Arabic animal words",
+        "ms": "Perkataan haiwan Arab"
+      },
+      "description": {
+        "en": "Practise arabic animal words.",
+        "ms": "Berlatih perkataan haiwan arab."
+      },
+      "minimumAge": 6,
+      "recommendedAge": 6,
+      "difficulty": "foundation",
+      "prerequisiteSkillIds": [
+        "arabic.letters.isolated"
+      ],
+      "tags": [
+        "vocabulary",
+        "animals"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "arabic.vocabulary.colors",
+      "subjectId": "arabic",
+      "code": "vocabulary_colors",
+      "title": {
+        "en": "Arabic colour words",
+        "ms": "Perkataan warna Arab"
+      },
+      "description": {
+        "en": "Practise arabic colour words.",
+        "ms": "Berlatih perkataan warna arab."
+      },
+      "minimumAge": 6,
+      "recommendedAge": 6,
+      "difficulty": "foundation",
+      "prerequisiteSkillIds": [
+        "arabic.letters.isolated"
+      ],
+      "tags": [
+        "vocabulary",
+        "colors"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "arabic.vocabulary.family",
+      "subjectId": "arabic",
+      "code": "vocabulary_family",
+      "title": {
+        "en": "Arabic family words",
+        "ms": "Perkataan keluarga Arab"
+      },
+      "description": {
+        "en": "Practise arabic family words.",
+        "ms": "Berlatih perkataan keluarga arab."
+      },
+      "minimumAge": 6,
+      "recommendedAge": 7,
+      "difficulty": "developing",
+      "prerequisiteSkillIds": [
+        "arabic.letters.isolated"
+      ],
+      "tags": [
+        "vocabulary",
+        "family"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "arabic.listening.picture",
+      "subjectId": "arabic",
+      "code": "listening_picture",
+      "title": {
+        "en": "Audio to picture",
+        "ms": "Audio kepada gambar"
+      },
+      "description": {
+        "en": "Practise audio to picture.",
+        "ms": "Berlatih audio kepada gambar."
+      },
+      "minimumAge": 6,
+      "recommendedAge": 7,
+      "difficulty": "developing",
+      "prerequisiteSkillIds": [
+        "arabic.sounds.identify"
+      ],
+      "tags": [
+        "listening",
+        "picture"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "arabic.words.assembly",
+      "subjectId": "arabic",
+      "code": "words_assembly",
+      "title": {
+        "en": "Simple Arabic word assembly",
+        "ms": "Binaan perkataan Arab mudah"
+      },
+      "description": {
+        "en": "Practise simple arabic word assembly.",
+        "ms": "Berlatih binaan perkataan arab mudah."
+      },
+      "minimumAge": 7,
+      "recommendedAge": 8,
+      "difficulty": "confident",
+      "prerequisiteSkillIds": [
+        "arabic.forms.beginning"
+      ],
+      "tags": [
+        "words",
+        "assembly"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "arabic.phrases.greetings",
+      "subjectId": "arabic",
+      "code": "phrases_greetings",
+      "title": {
+        "en": "Arabic greetings",
+        "ms": "Ucapan Arab"
+      },
+      "description": {
+        "en": "Practise arabic greetings.",
+        "ms": "Berlatih ucapan arab."
+      },
+      "minimumAge": 6,
+      "recommendedAge": 7,
+      "difficulty": "developing",
+      "prerequisiteSkillIds": [
+        "arabic.letters.isolated"
+      ],
+      "tags": [
+        "phrases",
+        "greetings"
+      ],
+      "isActive": true
+    }
+  ],
+  "content": [
+    {
+      "id": "arabic.letters.isolated.item_01",
+      "skillId": "arabic.letters.isolated",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "ar",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "direction": "rightToLeft",
+      "prompt": "اختر حرف ب",
+      "choices": [
+        {
+          "id": "a",
+          "label": "ب"
+        },
+        {
+          "id": "b",
+          "label": "ت"
+        },
+        {
+          "id": "c",
+          "label": "ث"
+        }
+      ],
+      "correctChoiceId": "a"
+    },
+    {
+      "id": "arabic.letters.isolated.item_02",
+      "skillId": "arabic.letters.isolated",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "ar",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "direction": "rightToLeft",
+      "prompt": "اختر حرف م",
+      "choices": [
+        {
+          "id": "a",
+          "label": "ن"
+        },
+        {
+          "id": "b",
+          "label": "م"
+        },
+        {
+          "id": "c",
+          "label": "هـ"
+        }
+      ],
+      "correctChoiceId": "b"
+    },
+    {
+      "id": "arabic.letters.similar.item_03",
+      "skillId": "arabic.letters.similar",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "ar",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "direction": "rightToLeft",
+      "prompt": "أي حرف له نقطة واحدة أسفله؟",
+      "choices": [
+        {
+          "id": "a",
+          "label": "ب"
+        },
+        {
+          "id": "b",
+          "label": "ت"
+        },
+        {
+          "id": "c",
+          "label": "ث"
+        }
+      ],
+      "correctChoiceId": "a"
+    },
+    {
+      "id": "arabic.letters.similar.item_04",
+      "skillId": "arabic.letters.similar",
+      "type": "multiple_choice",
+      "difficulty": "developing",
+      "locale": "ar",
+      "minimumAge": 5,
+      "recommendedAge": 6,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "direction": "rightToLeft",
+      "prompt": "أي حرف له نقطتان فوقه؟",
+      "choices": [
+        {
+          "id": "a",
+          "label": "ب"
+        },
+        {
+          "id": "b",
+          "label": "ت"
+        },
+        {
+          "id": "c",
+          "label": "ث"
+        }
+      ],
+      "correctChoiceId": "b"
+    },
+    {
+      "id": "arabic.sounds.identify.item_05",
+      "skillId": "arabic.sounds.identify",
+      "type": "audio_choice",
+      "difficulty": "foundation",
+      "locale": "ar",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "direction": "rightToLeft",
+      "prompt": "استمع واختر الحرف الصحيح",
+      "choices": [
+        {
+          "id": "a",
+          "label": "ب"
+        },
+        {
+          "id": "b",
+          "label": "د"
+        },
+        {
+          "id": "c",
+          "label": "ر"
+        }
+      ],
+      "correctChoiceId": "a",
+      "audioAssetId": "audio.ar.letter_ba"
+    },
+    {
+      "id": "arabic.sounds.identify.item_06",
+      "skillId": "arabic.sounds.identify",
+      "type": "audio_choice",
+      "difficulty": "foundation",
+      "locale": "ar",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "direction": "rightToLeft",
+      "prompt": "استمع واختر الحرف الصحيح",
+      "choices": [
+        {
+          "id": "a",
+          "label": "م"
+        },
+        {
+          "id": "b",
+          "label": "ن"
+        },
+        {
+          "id": "c",
+          "label": "و"
+        }
+      ],
+      "correctChoiceId": "a",
+      "audioAssetId": "audio.ar.letter_mim"
+    },
+    {
+      "id": "arabic.forms.beginning.item_07",
+      "skillId": "arabic.forms.beginning",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "ar",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "direction": "rightToLeft",
+      "prompt": "اختر شكل حرف ب في أول الكلمة",
+      "choices": [
+        {
+          "id": "a",
+          "label": "بـ"
+        },
+        {
+          "id": "b",
+          "label": "ـبـ"
+        },
+        {
+          "id": "c",
+          "label": "ـب"
+        }
+      ],
+      "correctChoiceId": "a"
+    },
+    {
+      "id": "arabic.forms.middle.item_08",
+      "skillId": "arabic.forms.middle",
+      "type": "multiple_choice",
+      "difficulty": "developing",
+      "locale": "ar",
+      "minimumAge": 5,
+      "recommendedAge": 6,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "direction": "rightToLeft",
+      "prompt": "اختر شكل حرف م في وسط الكلمة",
+      "choices": [
+        {
+          "id": "a",
+          "label": "مـ"
+        },
+        {
+          "id": "b",
+          "label": "ـمـ"
+        },
+        {
+          "id": "c",
+          "label": "ـم"
+        }
+      ],
+      "correctChoiceId": "b"
+    },
+    {
+      "id": "arabic.forms.end.item_09",
+      "skillId": "arabic.forms.end",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "ar",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "direction": "rightToLeft",
+      "prompt": "اختر شكل حرف ل في آخر الكلمة",
+      "choices": [
+        {
+          "id": "a",
+          "label": "لـ"
+        },
+        {
+          "id": "b",
+          "label": "ـلـ"
+        },
+        {
+          "id": "c",
+          "label": "ـل"
+        }
+      ],
+      "correctChoiceId": "c"
+    },
+    {
+      "id": "arabic.vocabulary.animals.item_10",
+      "skillId": "arabic.vocabulary.animals",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "ar",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "direction": "rightToLeft",
+      "prompt": "أي كلمة تعني قطة؟",
+      "choices": [
+        {
+          "id": "a",
+          "label": "قطة"
+        },
+        {
+          "id": "b",
+          "label": "سمكة"
+        },
+        {
+          "id": "c",
+          "label": "طائر"
+        }
+      ],
+      "correctChoiceId": "a"
+    },
+    {
+      "id": "arabic.vocabulary.animals.item_11",
+      "skillId": "arabic.vocabulary.animals",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "ar",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "direction": "rightToLeft",
+      "prompt": "أي كلمة تعني سمكة؟",
+      "choices": [
+        {
+          "id": "a",
+          "label": "أسد"
+        },
+        {
+          "id": "b",
+          "label": "سمكة"
+        },
+        {
+          "id": "c",
+          "label": "حصان"
+        }
+      ],
+      "correctChoiceId": "b"
+    },
+    {
+      "id": "arabic.vocabulary.colors.item_12",
+      "skillId": "arabic.vocabulary.colors",
+      "type": "multiple_choice",
+      "difficulty": "developing",
+      "locale": "ar",
+      "minimumAge": 5,
+      "recommendedAge": 6,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "direction": "rightToLeft",
+      "prompt": "أي كلمة تعني أحمر؟",
+      "choices": [
+        {
+          "id": "a",
+          "label": "أحمر"
+        },
+        {
+          "id": "b",
+          "label": "أزرق"
+        },
+        {
+          "id": "c",
+          "label": "أخضر"
+        }
+      ],
+      "correctChoiceId": "a"
+    },
+    {
+      "id": "arabic.vocabulary.colors.item_13",
+      "skillId": "arabic.vocabulary.colors",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "ar",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "direction": "rightToLeft",
+      "prompt": "أي كلمة تعني أزرق؟",
+      "choices": [
+        {
+          "id": "a",
+          "label": "أصفر"
+        },
+        {
+          "id": "b",
+          "label": "أزرق"
+        },
+        {
+          "id": "c",
+          "label": "أبيض"
+        }
+      ],
+      "correctChoiceId": "b"
+    },
+    {
+      "id": "arabic.vocabulary.family.item_14",
+      "skillId": "arabic.vocabulary.family",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "ar",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "direction": "rightToLeft",
+      "prompt": "أي كلمة تعني أم؟",
+      "choices": [
+        {
+          "id": "a",
+          "label": "أم"
+        },
+        {
+          "id": "b",
+          "label": "أب"
+        },
+        {
+          "id": "c",
+          "label": "أخ"
+        }
+      ],
+      "correctChoiceId": "a"
+    },
+    {
+      "id": "arabic.listening.picture.item_15",
+      "skillId": "arabic.listening.picture",
+      "type": "audio_choice",
+      "difficulty": "foundation",
+      "locale": "ar",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "direction": "rightToLeft",
+      "prompt": "استمع واختر الكلمة الصحيحة",
+      "choices": [
+        {
+          "id": "a",
+          "label": "بيت"
+        },
+        {
+          "id": "b",
+          "label": "باب"
+        },
+        {
+          "id": "c",
+          "label": "كتاب"
+        }
+      ],
+      "correctChoiceId": "a",
+      "audioAssetId": "audio.ar.word_bayt"
+    },
+    {
+      "id": "arabic.words.assembly.item_16",
+      "skillId": "arabic.words.assembly",
+      "type": "build_word",
+      "difficulty": "developing",
+      "locale": "ar",
+      "minimumAge": 5,
+      "recommendedAge": 6,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "direction": "rightToLeft",
+      "prompt": "رتب الحروف لتكوين كلمة باب",
+      "targetWord": "باب",
+      "availableLetters": [
+        "ب",
+        "ا",
+        "ب",
+        "ت"
+      ]
+    },
+    {
+      "id": "arabic.phrases.greetings.item_17",
+      "skillId": "arabic.phrases.greetings",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "ar",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "direction": "rightToLeft",
+      "prompt": "ماذا نقول للتحية؟",
+      "choices": [
+        {
+          "id": "a",
+          "label": "مرحبا"
+        },
+        {
+          "id": "b",
+          "label": "شكرا"
+        },
+        {
+          "id": "c",
+          "label": "وداعا"
+        }
+      ],
+      "correctChoiceId": "a"
+    },
+    {
+      "id": "arabic.phrases.greetings.item_18",
+      "skillId": "arabic.phrases.greetings",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "ar",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "direction": "rightToLeft",
+      "prompt": "ماذا نقول للشكر؟",
+      "choices": [
+        {
+          "id": "a",
+          "label": "شكرا"
+        },
+        {
+          "id": "b",
+          "label": "نعم"
+        },
+        {
+          "id": "c",
+          "label": "لا"
+        }
+      ],
+      "correctChoiceId": "a"
+    }
+  ]
+}

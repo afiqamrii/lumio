@@ -1,0 +1,748 @@
+{
+  "subjectId": "logic",
+  "skills": [
+    {
+      "id": "logic.pattern.ab",
+      "subjectId": "logic",
+      "code": "pattern_ab",
+      "title": {
+        "en": "AB patterns",
+        "ms": "Corak AB"
+      },
+      "description": {
+        "en": "Practise ab patterns.",
+        "ms": "Berlatih corak ab."
+      },
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "difficulty": "foundation",
+      "prerequisiteSkillIds": [],
+      "tags": [
+        "pattern",
+        "ab"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "logic.pattern.aab",
+      "subjectId": "logic",
+      "code": "pattern_aab",
+      "title": {
+        "en": "AAB patterns",
+        "ms": "Corak AAB"
+      },
+      "description": {
+        "en": "Practise aab patterns.",
+        "ms": "Berlatih corak aab."
+      },
+      "minimumAge": 5,
+      "recommendedAge": 6,
+      "difficulty": "developing",
+      "prerequisiteSkillIds": [
+        "logic.pattern.ab"
+      ],
+      "tags": [
+        "pattern",
+        "aab"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "logic.pattern.abc",
+      "subjectId": "logic",
+      "code": "pattern_abc",
+      "title": {
+        "en": "ABC patterns",
+        "ms": "Corak ABC"
+      },
+      "description": {
+        "en": "Practise abc patterns.",
+        "ms": "Berlatih corak abc."
+      },
+      "minimumAge": 6,
+      "recommendedAge": 6,
+      "difficulty": "developing",
+      "prerequisiteSkillIds": [
+        "logic.pattern.ab"
+      ],
+      "tags": [
+        "pattern",
+        "abc"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "logic.sequence.visual",
+      "subjectId": "logic",
+      "code": "sequence_visual",
+      "title": {
+        "en": "Visual sequences",
+        "ms": "Urutan visual"
+      },
+      "description": {
+        "en": "Practise visual sequences.",
+        "ms": "Berlatih urutan visual."
+      },
+      "minimumAge": 5,
+      "recommendedAge": 6,
+      "difficulty": "developing",
+      "prerequisiteSkillIds": [
+        "logic.pattern.ab"
+      ],
+      "tags": [
+        "sequence",
+        "visual"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "logic.sequence.steps",
+      "subjectId": "logic",
+      "code": "sequence_steps",
+      "title": {
+        "en": "Order steps",
+        "ms": "Susun langkah"
+      },
+      "description": {
+        "en": "Practise order steps.",
+        "ms": "Berlatih susun langkah."
+      },
+      "minimumAge": 6,
+      "recommendedAge": 6,
+      "difficulty": "developing",
+      "prerequisiteSkillIds": [],
+      "tags": [
+        "sequence",
+        "steps"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "logic.spatial.left_right",
+      "subjectId": "logic",
+      "code": "spatial_left_right",
+      "title": {
+        "en": "Left and right",
+        "ms": "Kiri dan kanan"
+      },
+      "description": {
+        "en": "Practise left and right.",
+        "ms": "Berlatih kiri dan kanan."
+      },
+      "minimumAge": 5,
+      "recommendedAge": 6,
+      "difficulty": "foundation",
+      "prerequisiteSkillIds": [],
+      "tags": [
+        "spatial",
+        "left_right"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "logic.spatial.position",
+      "subjectId": "logic",
+      "code": "spatial_position",
+      "title": {
+        "en": "Relative position",
+        "ms": "Kedudukan relatif"
+      },
+      "description": {
+        "en": "Practise relative position.",
+        "ms": "Berlatih kedudukan relatif."
+      },
+      "minimumAge": 5,
+      "recommendedAge": 6,
+      "difficulty": "foundation",
+      "prerequisiteSkillIds": [],
+      "tags": [
+        "spatial",
+        "position"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "logic.spatial.maze",
+      "subjectId": "logic",
+      "code": "spatial_maze",
+      "title": {
+        "en": "Simple maze planning",
+        "ms": "Perancangan laluan mudah"
+      },
+      "description": {
+        "en": "Practise simple maze planning.",
+        "ms": "Berlatih perancangan laluan mudah."
+      },
+      "minimumAge": 6,
+      "recommendedAge": 7,
+      "difficulty": "developing",
+      "prerequisiteSkillIds": [
+        "logic.spatial.position"
+      ],
+      "tags": [
+        "spatial",
+        "maze"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "logic.commands.sequence",
+      "subjectId": "logic",
+      "code": "commands_sequence",
+      "title": {
+        "en": "Command sequences",
+        "ms": "Urutan arahan"
+      },
+      "description": {
+        "en": "Practise command sequences.",
+        "ms": "Berlatih urutan arahan."
+      },
+      "minimumAge": 6,
+      "recommendedAge": 7,
+      "difficulty": "developing",
+      "prerequisiteSkillIds": [
+        "logic.sequence.steps"
+      ],
+      "tags": [
+        "commands",
+        "sequence"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "logic.commands.repeat",
+      "subjectId": "logic",
+      "code": "commands_repeat",
+      "title": {
+        "en": "Repeat concept",
+        "ms": "Konsep ulang"
+      },
+      "description": {
+        "en": "Practise repeat concept.",
+        "ms": "Berlatih konsep ulang."
+      },
+      "minimumAge": 7,
+      "recommendedAge": 8,
+      "difficulty": "confident",
+      "prerequisiteSkillIds": [
+        "logic.commands.sequence"
+      ],
+      "tags": [
+        "commands",
+        "repeat"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "logic.problem.missing",
+      "subjectId": "logic",
+      "code": "problem_missing",
+      "title": {
+        "en": "Missing element",
+        "ms": "Unsur yang hilang"
+      },
+      "description": {
+        "en": "Practise missing element.",
+        "ms": "Berlatih unsur yang hilang."
+      },
+      "minimumAge": 6,
+      "recommendedAge": 6,
+      "difficulty": "developing",
+      "prerequisiteSkillIds": [
+        "logic.pattern.ab"
+      ],
+      "tags": [
+        "problem",
+        "missing"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "logic.problem.deduction",
+      "subjectId": "logic",
+      "code": "problem_deduction",
+      "title": {
+        "en": "Simple deduction",
+        "ms": "Deduksi mudah"
+      },
+      "description": {
+        "en": "Practise simple deduction.",
+        "ms": "Berlatih deduksi mudah."
+      },
+      "minimumAge": 7,
+      "recommendedAge": 8,
+      "difficulty": "confident",
+      "prerequisiteSkillIds": [
+        "logic.problem.missing"
+      ],
+      "tags": [
+        "problem",
+        "deduction"
+      ],
+      "isActive": true
+    }
+  ],
+  "content": [
+    {
+      "id": "logic.pattern.ab.item_01",
+      "skillId": "logic.pattern.ab",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "What comes next: 🔵 🟡 🔵 🟡 ?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "🔵"
+        },
+        {
+          "id": "b",
+          "label": "🟡"
+        },
+        {
+          "id": "c",
+          "label": "🟢"
+        }
+      ],
+      "correctChoiceId": "a"
+    },
+    {
+      "id": "logic.pattern.ab.item_02",
+      "skillId": "logic.pattern.ab",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "What comes next: ▲ ● ▲ ● ?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "▲"
+        },
+        {
+          "id": "b",
+          "label": "●"
+        },
+        {
+          "id": "c",
+          "label": "■"
+        }
+      ],
+      "correctChoiceId": "a"
+    },
+    {
+      "id": "logic.pattern.aab.item_03",
+      "skillId": "logic.pattern.aab",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "What comes next: ⭐ ⭐ 🌙 ⭐ ⭐ ?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "⭐"
+        },
+        {
+          "id": "b",
+          "label": "🌙"
+        },
+        {
+          "id": "c",
+          "label": "☀️"
+        }
+      ],
+      "correctChoiceId": "b"
+    },
+    {
+      "id": "logic.pattern.abc.item_04",
+      "skillId": "logic.pattern.abc",
+      "type": "multiple_choice",
+      "difficulty": "developing",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 6,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "What comes next: red, blue, green, red, blue, ?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "green"
+        },
+        {
+          "id": "b",
+          "label": "red"
+        },
+        {
+          "id": "c",
+          "label": "blue"
+        }
+      ],
+      "correctChoiceId": "a"
+    },
+    {
+      "id": "logic.sequence.visual.item_05",
+      "skillId": "logic.sequence.visual",
+      "type": "ordering",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Order the plant stages.",
+      "items": [
+        {
+          "id": "item_1",
+          "label": "seed"
+        },
+        {
+          "id": "item_2",
+          "label": "sprout"
+        },
+        {
+          "id": "item_3",
+          "label": "flower"
+        }
+      ],
+      "correctOrder": [
+        "item_1",
+        "item_2",
+        "item_3"
+      ]
+    },
+    {
+      "id": "logic.sequence.steps.item_06",
+      "skillId": "logic.sequence.steps",
+      "type": "ordering",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Put handwashing steps in order.",
+      "items": [
+        {
+          "id": "item_1",
+          "label": "wet hands"
+        },
+        {
+          "id": "item_2",
+          "label": "use soap"
+        },
+        {
+          "id": "item_3",
+          "label": "rinse"
+        }
+      ],
+      "correctOrder": [
+        "item_1",
+        "item_2",
+        "item_3"
+      ]
+    },
+    {
+      "id": "logic.spatial.left_right.item_07",
+      "skillId": "logic.spatial.left_right",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Which arrow points left?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "←"
+        },
+        {
+          "id": "b",
+          "label": "→"
+        },
+        {
+          "id": "c",
+          "label": "↑"
+        }
+      ],
+      "correctChoiceId": "a"
+    },
+    {
+      "id": "logic.spatial.left_right.item_08",
+      "skillId": "logic.spatial.left_right",
+      "type": "multiple_choice",
+      "difficulty": "developing",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 6,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Which arrow points right?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "↓"
+        },
+        {
+          "id": "b",
+          "label": "←"
+        },
+        {
+          "id": "c",
+          "label": "→"
+        }
+      ],
+      "correctChoiceId": "c"
+    },
+    {
+      "id": "logic.spatial.position.item_09",
+      "skillId": "logic.spatial.position",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "The ball is under the table. Where is the ball?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "under"
+        },
+        {
+          "id": "b",
+          "label": "above"
+        },
+        {
+          "id": "c",
+          "label": "beside"
+        }
+      ],
+      "correctChoiceId": "a"
+    },
+    {
+      "id": "logic.spatial.maze.item_10",
+      "skillId": "logic.spatial.maze",
+      "type": "ordering",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Choose the command order to move right, then up.",
+      "items": [
+        {
+          "id": "item_1",
+          "label": "right"
+        },
+        {
+          "id": "item_2",
+          "label": "up"
+        }
+      ],
+      "correctOrder": [
+        "item_1",
+        "item_2"
+      ]
+    },
+    {
+      "id": "logic.commands.sequence.item_11",
+      "skillId": "logic.commands.sequence",
+      "type": "ordering",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Order the commands: move, turn, move.",
+      "items": [
+        {
+          "id": "item_1",
+          "label": "move 1"
+        },
+        {
+          "id": "item_2",
+          "label": "turn right"
+        },
+        {
+          "id": "item_3",
+          "label": "move 2"
+        }
+      ],
+      "correctOrder": [
+        "item_1",
+        "item_2",
+        "item_3"
+      ]
+    },
+    {
+      "id": "logic.commands.repeat.item_12",
+      "skillId": "logic.commands.repeat",
+      "type": "multiple_choice",
+      "difficulty": "developing",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 6,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Which instruction performs three jumps clearly?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "repeat jump 3 times"
+        },
+        {
+          "id": "b",
+          "label": "jump once"
+        },
+        {
+          "id": "c",
+          "label": "turn left"
+        }
+      ],
+      "correctChoiceId": "a"
+    },
+    {
+      "id": "logic.problem.missing.item_13",
+      "skillId": "logic.problem.missing",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Which number is missing: 2, 4, _, 8?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "5"
+        },
+        {
+          "id": "b",
+          "label": "6"
+        },
+        {
+          "id": "c",
+          "label": "7"
+        }
+      ],
+      "correctChoiceId": "b"
+    },
+    {
+      "id": "logic.problem.missing.item_14",
+      "skillId": "logic.problem.missing",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Which shape completes: ○ □ ○ □ ?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "○"
+        },
+        {
+          "id": "b",
+          "label": "△"
+        },
+        {
+          "id": "c",
+          "label": "□"
+        }
+      ],
+      "correctChoiceId": "a"
+    },
+    {
+      "id": "logic.problem.deduction.item_15",
+      "skillId": "logic.problem.deduction",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "All red blocks go in box A. This block is red. Where does it go?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "box A"
+        },
+        {
+          "id": "b",
+          "label": "box B"
+        },
+        {
+          "id": "c",
+          "label": "either box"
+        }
+      ],
+      "correctChoiceId": "a"
+    }
+  ]
+}

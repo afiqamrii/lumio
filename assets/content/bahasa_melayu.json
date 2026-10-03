@@ -1,0 +1,811 @@
+{
+  "subjectId": "bahasa_melayu",
+  "skills": [
+    {
+      "id": "bahasa_melayu.huruf.besar_kecil",
+      "subjectId": "bahasa_melayu",
+      "code": "huruf_besar_kecil",
+      "title": {
+        "en": "Huruf besar dan kecil",
+        "ms": "Huruf besar dan kecil"
+      },
+      "description": {
+        "en": "Practise huruf besar dan kecil.",
+        "ms": "Berlatih huruf besar dan kecil."
+      },
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "difficulty": "foundation",
+      "prerequisiteSkillIds": [],
+      "tags": [
+        "huruf",
+        "besar_kecil"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "bahasa_melayu.huruf.bunyi_asas",
+      "subjectId": "bahasa_melayu",
+      "code": "huruf_bunyi_asas",
+      "title": {
+        "en": "Bunyi huruf asas",
+        "ms": "Bunyi huruf asas"
+      },
+      "description": {
+        "en": "Practise bunyi huruf asas.",
+        "ms": "Berlatih bunyi huruf asas."
+      },
+      "minimumAge": 5,
+      "recommendedAge": 6,
+      "difficulty": "foundation",
+      "prerequisiteSkillIds": [
+        "bahasa_melayu.huruf.besar_kecil"
+      ],
+      "tags": [
+        "huruf",
+        "bunyi_asas"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "bahasa_melayu.suku_kata.kv",
+      "subjectId": "bahasa_melayu",
+      "code": "suku_kata_kv",
+      "title": {
+        "en": "Suku kata KV",
+        "ms": "Suku kata KV"
+      },
+      "description": {
+        "en": "Practise suku kata kv.",
+        "ms": "Berlatih suku kata kv."
+      },
+      "minimumAge": 5,
+      "recommendedAge": 6,
+      "difficulty": "foundation",
+      "prerequisiteSkillIds": [
+        "bahasa_melayu.huruf.bunyi_asas"
+      ],
+      "tags": [
+        "suku_kata",
+        "kv"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "bahasa_melayu.suku_kata.kvkv",
+      "subjectId": "bahasa_melayu",
+      "code": "suku_kata_kvkv",
+      "title": {
+        "en": "Suku kata KVKV",
+        "ms": "Suku kata KVKV"
+      },
+      "description": {
+        "en": "Practise suku kata kvkv.",
+        "ms": "Berlatih suku kata kvkv."
+      },
+      "minimumAge": 6,
+      "recommendedAge": 6,
+      "difficulty": "developing",
+      "prerequisiteSkillIds": [
+        "bahasa_melayu.suku_kata.kv"
+      ],
+      "tags": [
+        "suku_kata",
+        "kvkv"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "bahasa_melayu.kosa_kata.haiwan",
+      "subjectId": "bahasa_melayu",
+      "code": "kosa_kata_haiwan",
+      "title": {
+        "en": "Kosa kata haiwan",
+        "ms": "Kosa kata haiwan"
+      },
+      "description": {
+        "en": "Practise kosa kata haiwan.",
+        "ms": "Berlatih kosa kata haiwan."
+      },
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "difficulty": "foundation",
+      "prerequisiteSkillIds": [],
+      "tags": [
+        "kosa_kata",
+        "haiwan"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "bahasa_melayu.kosa_kata.makanan",
+      "subjectId": "bahasa_melayu",
+      "code": "kosa_kata_makanan",
+      "title": {
+        "en": "Kosa kata makanan",
+        "ms": "Kosa kata makanan"
+      },
+      "description": {
+        "en": "Practise kosa kata makanan.",
+        "ms": "Berlatih kosa kata makanan."
+      },
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "difficulty": "foundation",
+      "prerequisiteSkillIds": [],
+      "tags": [
+        "kosa_kata",
+        "makanan"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "bahasa_melayu.kosa_kata.anggota_badan",
+      "subjectId": "bahasa_melayu",
+      "code": "kosa_kata_anggota_badan",
+      "title": {
+        "en": "Anggota badan",
+        "ms": "Anggota badan"
+      },
+      "description": {
+        "en": "Practise anggota badan.",
+        "ms": "Berlatih anggota badan."
+      },
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "difficulty": "foundation",
+      "prerequisiteSkillIds": [],
+      "tags": [
+        "kosa_kata",
+        "anggota_badan"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "bahasa_melayu.kosa_kata.warna",
+      "subjectId": "bahasa_melayu",
+      "code": "kosa_kata_warna",
+      "title": {
+        "en": "Warna",
+        "ms": "Warna"
+      },
+      "description": {
+        "en": "Practise warna.",
+        "ms": "Berlatih warna."
+      },
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "difficulty": "foundation",
+      "prerequisiteSkillIds": [],
+      "tags": [
+        "kosa_kata",
+        "warna"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "bahasa_melayu.ejaan.mudah",
+      "subjectId": "bahasa_melayu",
+      "code": "ejaan_mudah",
+      "title": {
+        "en": "Ejaan mudah",
+        "ms": "Ejaan mudah"
+      },
+      "description": {
+        "en": "Practise ejaan mudah.",
+        "ms": "Berlatih ejaan mudah."
+      },
+      "minimumAge": 6,
+      "recommendedAge": 6,
+      "difficulty": "developing",
+      "prerequisiteSkillIds": [
+        "bahasa_melayu.suku_kata.kvkv"
+      ],
+      "tags": [
+        "ejaan",
+        "mudah"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "bahasa_melayu.ayat.susun_perkataan",
+      "subjectId": "bahasa_melayu",
+      "code": "ayat_susun_perkataan",
+      "title": {
+        "en": "Susun perkataan",
+        "ms": "Susun perkataan"
+      },
+      "description": {
+        "en": "Practise susun perkataan.",
+        "ms": "Berlatih susun perkataan."
+      },
+      "minimumAge": 7,
+      "recommendedAge": 7,
+      "difficulty": "confident",
+      "prerequisiteSkillIds": [
+        "bahasa_melayu.ejaan.mudah"
+      ],
+      "tags": [
+        "ayat",
+        "susun_perkataan"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "bahasa_melayu.ayat.bina_mudah",
+      "subjectId": "bahasa_melayu",
+      "code": "ayat_bina_mudah",
+      "title": {
+        "en": "Bina ayat mudah",
+        "ms": "Bina ayat mudah"
+      },
+      "description": {
+        "en": "Practise bina ayat mudah.",
+        "ms": "Berlatih bina ayat mudah."
+      },
+      "minimumAge": 7,
+      "recommendedAge": 7,
+      "difficulty": "confident",
+      "prerequisiteSkillIds": [
+        "bahasa_melayu.ayat.susun_perkataan"
+      ],
+      "tags": [
+        "ayat",
+        "bina_mudah"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "bahasa_melayu.kefahaman.ayat_pendek",
+      "subjectId": "bahasa_melayu",
+      "code": "kefahaman_ayat_pendek",
+      "title": {
+        "en": "Ayat pendek",
+        "ms": "Ayat pendek"
+      },
+      "description": {
+        "en": "Practise ayat pendek.",
+        "ms": "Berlatih ayat pendek."
+      },
+      "minimumAge": 7,
+      "recommendedAge": 7,
+      "difficulty": "confident",
+      "prerequisiteSkillIds": [
+        "bahasa_melayu.ayat.bina_mudah"
+      ],
+      "tags": [
+        "kefahaman",
+        "ayat_pendek"
+      ],
+      "isActive": true
+    }
+  ],
+  "content": [
+    {
+      "id": "bahasa_melayu.huruf.besar_kecil.item_01",
+      "skillId": "bahasa_melayu.huruf.besar_kecil",
+      "type": "matching",
+      "difficulty": "foundation",
+      "locale": "ms",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Padankan huruf besar dengan huruf kecil.",
+      "pairs": [
+        {
+          "left": "A",
+          "right": "a"
+        },
+        {
+          "left": "M",
+          "right": "m"
+        },
+        {
+          "left": "S",
+          "right": "s"
+        }
+      ]
+    },
+    {
+      "id": "bahasa_melayu.huruf.besar_kecil.item_02",
+      "skillId": "bahasa_melayu.huruf.besar_kecil",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "ms",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Pilih huruf kecil bagi B.",
+      "choices": [
+        {
+          "id": "a",
+          "label": "b"
+        },
+        {
+          "id": "b",
+          "label": "d"
+        },
+        {
+          "id": "c",
+          "label": "p"
+        }
+      ],
+      "correctChoiceId": "a"
+    },
+    {
+      "id": "bahasa_melayu.huruf.bunyi_asas.item_03",
+      "skillId": "bahasa_melayu.huruf.bunyi_asas",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "ms",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Perkataan manakah bermula dengan bunyi /k/?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "kucing"
+        },
+        {
+          "id": "b",
+          "label": "buku"
+        },
+        {
+          "id": "c",
+          "label": "susu"
+        }
+      ],
+      "correctChoiceId": "a"
+    },
+    {
+      "id": "bahasa_melayu.huruf.bunyi_asas.item_04",
+      "skillId": "bahasa_melayu.huruf.bunyi_asas",
+      "type": "multiple_choice",
+      "difficulty": "developing",
+      "locale": "ms",
+      "minimumAge": 5,
+      "recommendedAge": 6,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Perkataan manakah bermula dengan bunyi /b/?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "bola"
+        },
+        {
+          "id": "b",
+          "label": "mata"
+        },
+        {
+          "id": "c",
+          "label": "nasi"
+        }
+      ],
+      "correctChoiceId": "a"
+    },
+    {
+      "id": "bahasa_melayu.suku_kata.kv.item_05",
+      "skillId": "bahasa_melayu.suku_kata.kv",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "ms",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Pilih suku kata KV.",
+      "choices": [
+        {
+          "id": "a",
+          "label": "ba"
+        },
+        {
+          "id": "b",
+          "label": "bak"
+        },
+        {
+          "id": "c",
+          "label": "air"
+        }
+      ],
+      "correctChoiceId": "a"
+    },
+    {
+      "id": "bahasa_melayu.suku_kata.kv.item_06",
+      "skillId": "bahasa_melayu.suku_kata.kv",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "ms",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Gabungkan bunyi b dan a.",
+      "choices": [
+        {
+          "id": "a",
+          "label": "ba"
+        },
+        {
+          "id": "b",
+          "label": "bi"
+        },
+        {
+          "id": "c",
+          "label": "bu"
+        }
+      ],
+      "correctChoiceId": "a"
+    },
+    {
+      "id": "bahasa_melayu.suku_kata.kvkv.item_07",
+      "skillId": "bahasa_melayu.suku_kata.kvkv",
+      "type": "build_word",
+      "difficulty": "foundation",
+      "locale": "ms",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Bina perkataan untuk buku.",
+      "targetWord": "buku",
+      "availableLetters": [
+        "b",
+        "u",
+        "k",
+        "u",
+        "a"
+      ]
+    },
+    {
+      "id": "bahasa_melayu.suku_kata.kvkv.item_08",
+      "skillId": "bahasa_melayu.suku_kata.kvkv",
+      "type": "build_word",
+      "difficulty": "developing",
+      "locale": "ms",
+      "minimumAge": 5,
+      "recommendedAge": 6,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Bina perkataan untuk bola.",
+      "targetWord": "bola",
+      "availableLetters": [
+        "b",
+        "o",
+        "l",
+        "a",
+        "i"
+      ]
+    },
+    {
+      "id": "bahasa_melayu.kosa_kata.haiwan.item_09",
+      "skillId": "bahasa_melayu.kosa_kata.haiwan",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "ms",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Haiwan manakah hidup di dalam air?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "ikan"
+        },
+        {
+          "id": "b",
+          "label": "ayam"
+        },
+        {
+          "id": "c",
+          "label": "kucing"
+        }
+      ],
+      "correctChoiceId": "a"
+    },
+    {
+      "id": "bahasa_melayu.kosa_kata.haiwan.item_10",
+      "skillId": "bahasa_melayu.kosa_kata.haiwan",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "ms",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Haiwan manakah mempunyai belalai?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "gajah"
+        },
+        {
+          "id": "b",
+          "label": "arnab"
+        },
+        {
+          "id": "c",
+          "label": "itik"
+        }
+      ],
+      "correctChoiceId": "a"
+    },
+    {
+      "id": "bahasa_melayu.kosa_kata.makanan.item_11",
+      "skillId": "bahasa_melayu.kosa_kata.makanan",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "ms",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Yang manakah buah?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "mangga"
+        },
+        {
+          "id": "b",
+          "label": "kerusi"
+        },
+        {
+          "id": "c",
+          "label": "kasut"
+        }
+      ],
+      "correctChoiceId": "a"
+    },
+    {
+      "id": "bahasa_melayu.kosa_kata.anggota_badan.item_12",
+      "skillId": "bahasa_melayu.kosa_kata.anggota_badan",
+      "type": "multiple_choice",
+      "difficulty": "developing",
+      "locale": "ms",
+      "minimumAge": 5,
+      "recommendedAge": 6,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Kita melihat dengan apa?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "mata"
+        },
+        {
+          "id": "b",
+          "label": "telinga"
+        },
+        {
+          "id": "c",
+          "label": "hidung"
+        }
+      ],
+      "correctChoiceId": "a"
+    },
+    {
+      "id": "bahasa_melayu.kosa_kata.warna.item_13",
+      "skillId": "bahasa_melayu.kosa_kata.warna",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "ms",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Apakah warna daun yang segar?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "hijau"
+        },
+        {
+          "id": "b",
+          "label": "ungu"
+        },
+        {
+          "id": "c",
+          "label": "jingga"
+        }
+      ],
+      "correctChoiceId": "a"
+    },
+    {
+      "id": "bahasa_melayu.ejaan.mudah.item_14",
+      "skillId": "bahasa_melayu.ejaan.mudah",
+      "type": "build_word",
+      "difficulty": "foundation",
+      "locale": "ms",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Eja perkataan nasi.",
+      "targetWord": "nasi",
+      "availableLetters": [
+        "n",
+        "a",
+        "s",
+        "i",
+        "u"
+      ]
+    },
+    {
+      "id": "bahasa_melayu.ayat.susun_perkataan.item_15",
+      "skillId": "bahasa_melayu.ayat.susun_perkataan",
+      "type": "ordering",
+      "difficulty": "foundation",
+      "locale": "ms",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Susun perkataan menjadi ayat.",
+      "items": [
+        {
+          "id": "item_1",
+          "label": "Ali"
+        },
+        {
+          "id": "item_2",
+          "label": "makan"
+        },
+        {
+          "id": "item_3",
+          "label": "nasi"
+        }
+      ],
+      "correctOrder": [
+        "item_1",
+        "item_2",
+        "item_3"
+      ]
+    },
+    {
+      "id": "bahasa_melayu.ayat.bina_mudah.item_16",
+      "skillId": "bahasa_melayu.ayat.bina_mudah",
+      "type": "ordering",
+      "difficulty": "developing",
+      "locale": "ms",
+      "minimumAge": 5,
+      "recommendedAge": 6,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Susun ayat yang betul.",
+      "items": [
+        {
+          "id": "item_1",
+          "label": "Ibu"
+        },
+        {
+          "id": "item_2",
+          "label": "baca"
+        },
+        {
+          "id": "item_3",
+          "label": "buku"
+        }
+      ],
+      "correctOrder": [
+        "item_1",
+        "item_2",
+        "item_3"
+      ]
+    },
+    {
+      "id": "bahasa_melayu.kefahaman.ayat_pendek.item_17",
+      "skillId": "bahasa_melayu.kefahaman.ayat_pendek",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "ms",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Siti memakai baju biru. Apakah warna bajunya?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "biru"
+        },
+        {
+          "id": "b",
+          "label": "merah"
+        },
+        {
+          "id": "c",
+          "label": "kuning"
+        }
+      ],
+      "correctChoiceId": "a"
+    },
+    {
+      "id": "bahasa_melayu.kefahaman.ayat_pendek.item_18",
+      "skillId": "bahasa_melayu.kefahaman.ayat_pendek",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "ms",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Amir minum susu. Apakah yang diminum Amir?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "susu"
+        },
+        {
+          "id": "b",
+          "label": "air"
+        },
+        {
+          "id": "c",
+          "label": "jus"
+        }
+      ],
+      "correctChoiceId": "a"
+    }
+  ]
+}

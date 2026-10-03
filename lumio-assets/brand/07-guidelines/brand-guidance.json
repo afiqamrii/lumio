@@ -1,0 +1,77 @@
+{
+  "version": "2.0",
+  "status": "authored project baseline; device integration pending",
+  "typography": {
+    "display": {
+      "family": "Nunito",
+      "weights": [
+        700,
+        800
+      ]
+    },
+    "latin": {
+      "family": "Lexend",
+      "weights": [
+        400,
+        500,
+        600
+      ]
+    },
+    "arabic": {
+      "family": "Noto Sans Arabic",
+      "weights": [
+        400,
+        500,
+        600
+      ]
+    },
+    "fontFilesBundled": true
+  },
+  "motionMs": {
+    "press": [
+      80,
+      120
+    ],
+    "feedback": [
+      200,
+      350
+    ],
+    "transition": [
+      220,
+      320
+    ],
+    "reaction": [
+      500,
+      900
+    ],
+    "celebration": [
+      800,
+      1200
+    ]
+  },
+  "logo": {
+    "clearSpaceOHeightMultiplier": 0.25,
+    "provisionalMinWidthPx": {
+      "integrated": 240,
+      "wordmark": 120,
+      "smallUI": 80
+    },
+    "minimumSizesValidated": false
+  },
+  "individualReactions": {
+    "requested": 9,
+    "generated": 9,
+    "status": "included; static RGBA PNGs"
+  },
+  "uiConcepts": {
+    "screens": 4,
+    "status": "visual mockups"
+  },
+  "characterSource": {
+    "format": "layered SVG",
+    "parts": 18,
+    "nativeEngineRig": false
+  },
+  "prototypeSounds": 5,
+  "childTouchTargetPx": 56
+}

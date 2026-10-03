@@ -1,0 +1,143 @@
+{
+  "character": "Lumi",
+  "assetType": "static torso-up reaction PNGs",
+  "animated": false,
+  "background": "transparent",
+  "assets": [
+    {
+      "id": "happy",
+      "file": "lumi-happy.png",
+      "width": 1254,
+      "height": 1254,
+      "alpha": true,
+      "visibleBoundsApprox": [
+        92,
+        86,
+        1174,
+        1172
+      ],
+      "use": "Greeting or neutral idle",
+      "sampleCopy": "Ready to explore?"
+    },
+    {
+      "id": "excited",
+      "file": "lumi-excited.png",
+      "width": 1254,
+      "height": 1254,
+      "alpha": true,
+      "visibleBoundsApprox": [
+        224,
+        80,
+        1177,
+        1138
+      ],
+      "use": "An activity is ready to begin",
+      "sampleCopy": "Let’s give it a try!"
+    },
+    {
+      "id": "curious",
+      "file": "lumi-curious.png",
+      "width": 1254,
+      "height": 1254,
+      "alpha": true,
+      "visibleBoundsApprox": [
+        103,
+        105,
+        1152,
+        1162
+      ],
+      "use": "Introducing a question or inviting exploration",
+      "sampleCopy": "What do you notice?"
+    },
+    {
+      "id": "thinking",
+      "file": "lumi-thinking.png",
+      "width": 1254,
+      "height": 1254,
+      "alpha": true,
+      "visibleBoundsApprox": [
+        258,
+        85,
+        1145,
+        1146
+      ],
+      "use": "Preparing a hint or considering an example",
+      "sampleCopy": "Let’s think together."
+    },
+    {
+      "id": "surprised",
+      "file": "lumi-surprised.png",
+      "width": 1254,
+      "height": 1254,
+      "alpha": true,
+      "visibleBoundsApprox": [
+        210,
+        127,
+        1142,
+        1128
+      ],
+      "use": "An interesting discovery",
+      "sampleCopy": "Oh! Something new!"
+    },
+    {
+      "id": "proud",
+      "file": "lumi-proud.png",
+      "width": 1254,
+      "height": 1254,
+      "alpha": true,
+      "visibleBoundsApprox": [
+        156,
+        70,
+        1185,
+        1166
+      ],
+      "use": "Recognizing effort or progress",
+      "sampleCopy": "Look how much you’ve learned!"
+    },
+    {
+      "id": "confused",
+      "file": "lumi-confused.png",
+      "width": 1254,
+      "height": 1254,
+      "alpha": true,
+      "visibleBoundsApprox": [
+        53,
+        74,
+        1205,
+        1153
+      ],
+      "use": "Lumi models working through a tricky example",
+      "sampleCopy": "Hmm… let’s try another way."
+    },
+    {
+      "id": "sleepy",
+      "file": "lumi-sleepy.png",
+      "width": 1254,
+      "height": 1254,
+      "alpha": true,
+      "visibleBoundsApprox": [
+        230,
+        60,
+        1150,
+        1157
+      ],
+      "use": "A natural session ending or optional break",
+      "sampleCopy": "Ready for a little break?"
+    },
+    {
+      "id": "celebrating",
+      "file": "lumi-celebrating.png",
+      "width": 1254,
+      "height": 1254,
+      "alpha": true,
+      "visibleBoundsApprox": [
+        91,
+        81,
+        1189,
+        1137
+      ],
+      "use": "Completing an activity or reaching a learning milestone",
+      "sampleCopy": "You did it!"
+    }
+  ]
+}

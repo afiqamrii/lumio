@@ -1,0 +1,1229 @@
+{
+  "brand": "Lumio",
+  "version": "2.0",
+  "entryPoint": "START-HERE.html",
+  "guide": "brand/07-guidelines/Lumio-Brand-Guideline-v2.pdf",
+  "assetStatus": "brand/design baseline complete; game integration remains",
+  "files": [
+    {
+      "path": "CHECKS.json",
+      "bytes": 294,
+      "sha256": "9e9c2d20d2bc9912f799f55924e027292f003e8a5081648ea3982134f1d89287"
+    },
+    {
+      "path": "CHECKS.md",
+      "bytes": 1616,
+      "sha256": "6263afaf6605e866a2b230628834785066648b3fee9b8a1da99c0bf68c3bd90f"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2972,
+      "sha256": "ce2a2e5632fb344a91884e16079ce2ab9471ebd1da773b5b7ec56d2bcf83e5c4"
+    },
+    {
+      "path": "START-HERE.html",
+      "bytes": 13725,
+      "sha256": "2efaf31fa3943679bfbae60b906c9390a28858857dce4476f3871b6852280922"
+    },
+    {
+      "path": "brand/00-brief/master-brief.txt",
+      "bytes": 12391,
+      "sha256": "e5aa4ff9de40de1ef0b8dd40d72ef4297b0091612e15fa5a3b462d045f6baf08"
+    },
+    {
+      "path": "brand/01-mascot/approved/README.md",
+      "bytes": 478,
+      "sha256": "8a453e0564bd1085b436f0c8cc19f1fc48d1466486e49a973207ca3654f07953"
+    },
+    {
+      "path": "brand/01-mascot/approved/lumi-mascot-reference.png",
+      "bytes": 739091,
+      "sha256": "d2b42a4165f7b9b988fa536fe64c0a264286de1c79c21b7bb83cf379545c65e2"
+    },
+    {
+      "path": "brand/01-mascot/concepts/generation-prompts.json",
+      "bytes": 4916,
+      "sha256": "a9df661e238f2bb7a310025d441d8939f5de9b340af5d7c98ae15df3bec5f60c"
+    },
+    {
+      "path": "brand/01-mascot/concepts/lumi-A-spark.png",
+      "bytes": 909336,
+      "sha256": "2bd5ca9fe40b65a94b5f6d96cfed3d532e740978922863d7d41401fad6b94534"
+    },
+    {
+      "path": "brand/01-mascot/concepts/lumi-B-orbit.png",
+      "bytes": 866300,
+      "sha256": "bba2a2c3da42a544d0cecfad2e786edc955bb2abdac3d050cda826b458a48251"
+    },
+    {
+      "path": "brand/01-mascot/concepts/lumi-C-glowtail.png",
+      "bytes": 1043860,
+      "sha256": "a053565e11e9b34beab0ef2381588e634dff696f217fd6f79094fa95723ec9bd"
+    },
+    {
+      "path": "brand/01-mascot/round-02-flat/README.md",
+      "bytes": 1426,
+      "sha256": "95bdf7cb94b9a63235025cba5eeeec76cb0e607502a5a794abf2536a8af2f65b"
+    },
+    {
+      "path": "brand/01-mascot/round-02-flat/generation-prompts.json",
+      "bytes": 8260,
+      "sha256": "81cb61baa97e775e4252ffe0f1f4c9ff5ecc5f1c3276f392aec7452e6f633c07"
+    },
+    {
+      "path": "brand/01-mascot/round-02-flat/lumi-01-pebble.png",
+      "bytes": 634937,
+      "sha256": "d213a9fff2fd0da0b272dda12a0772e9511015d535899b30f76f658250d514bb"
+    },
+    {
+      "path": "brand/01-mascot/round-02-flat/lumi-02-round.png",
+      "bytes": 591758,
+      "sha256": "1829e42ceddc0164ce24d3ed112f6f580b76365d10b70b2cbf00bdce56b181ab"
+    },
+    {
+      "path": "brand/01-mascot/round-02-flat/lumi-03-kite.png",
+      "bytes": 563939,
+      "sha256": "3c14fb8bf7cde6f9edca7fa6756c6c6c119255924b787539b245b67929e959aa"
+    },
+    {
+      "path": "brand/01-mascot/round-03-cartoon/README.md",
+      "bytes": 652,
+      "sha256": "cc6d131f482de3aa73e20a80c8e5b06ec28e70038ec3ffe3d969a2456e1e465b"
+    },
+    {
+      "path": "brand/01-mascot/round-03-cartoon/generation-prompt.txt",
+      "bytes": 3064,
+      "sha256": "b15a2aed37a19529a906f4fe5fb20a505a2b5b27d156c648e9736a9f27c9a2aa"
+    },
+    {
+      "path": "brand/01-mascot/round-03-cartoon/lumi-cartoon-direction.png",
+      "bytes": 598496,
+      "sha256": "7b3a9089bc16a08f451017c69d73e61f66008997bc2b7c2b8697a6dec5c3cc17"
+    },
+    {
+      "path": "brand/01-mascot/round-04-body-structure/README.md",
+      "bytes": 665,
+      "sha256": "526ca8728df460cda7f62e504735a151f7a02e541a8b600624d8881d67eda7e2"
+    },
+    {
+      "path": "brand/01-mascot/round-04-body-structure/generation-prompt.txt",
+      "bytes": 2367,
+      "sha256": "93eeaa0a951d4f30b21d7d25aec1d00b055f3fbbaaa930ad03fd7a75bab256ad"
+    },
+    {
+      "path": "brand/01-mascot/round-04-body-structure/lumi-defined-body.png",
+      "bytes": 739091,
+      "sha256": "d2b42a4165f7b9b988fa536fe64c0a264286de1c79c21b7bb83cf379545c65e2"
+    },
+    {
+      "path": "brand/02-wordmark/approved/README.md",
+      "bytes": 355,
+      "sha256": "7d9e36d344c62905a9ac33135ccaf0f3cc3d6fac8f32dac23a5cfefc68d51116"
+    },
+    {
+      "path": "brand/02-wordmark/approved/lumio-wordmark-A.png",
+      "bytes": 347044,
+      "sha256": "497c67ec4aede2de2caa851d2f207c3f9bd79e90296dfbb1a58f79f7fd620d20"
+    },
+    {
+      "path": "brand/02-wordmark/concepts/README.md",
+      "bytes": 969,
+      "sha256": "0255a4a0435563f65430ffa67fd273015451bf3ceaf5d921906b3c2b6a81169b"
+    },
+    {
+      "path": "brand/02-wordmark/concepts/generation-prompts.json",
+      "bytes": 4802,
+      "sha256": "dda9182f0b5bba41ef2b277f6de98e46efcff9a5dbd39cc1043db957181fe4b8"
+    },
+    {
+      "path": "brand/02-wordmark/concepts/lumio-01-soft-round.png",
+      "bytes": 368868,
+      "sha256": "8836ec26b2825f5984d24cc94e2ae048117525e115f9ecc98fc8b7b343e04db8"
+    },
+    {
+      "path": "brand/02-wordmark/concepts/lumio-02-playful-bounce.png",
+      "bytes": 579306,
+      "sha256": "3b714ea050ac2141da7acc9e02081925d85a1a5955550aef9c3f38ed591dd9f3"
+    },
+    {
+      "path": "brand/02-wordmark/concepts/lumio-03-little-glow.png",
+      "bytes": 270495,
+      "sha256": "43451662bee3302de62440560702297826ceebfb3622aa157ca3da45e7f1e7b2"
+    },
+    {
+      "path": "brand/02-wordmark/refined/README.md",
+      "bytes": 1531,
+      "sha256": "1cf6abeeac1502b89a684b60bc42c8445224359c7e64f1ba11959c8f911b449d"
+    },
+    {
+      "path": "brand/02-wordmark/refined/generation-prompts.json",
+      "bytes": 7260,
+      "sha256": "0b5446895e32a4eab93ed59d1dcc81c820c1a314e5df0164059e25c8888b5e64"
+    },
+    {
+      "path": "brand/02-wordmark/refined/lumio-A-balanced-violet.png",
+      "bytes": 347044,
+      "sha256": "497c67ec4aede2de2caa851d2f207c3f9bd79e90296dfbb1a58f79f7fd620d20"
+    },
+    {
+      "path": "brand/02-wordmark/refined/lumio-B-deep-violet.png",
+      "bytes": 362678,
+      "sha256": "09a4d2af4c5675ca6d009a23db78fb2dddc0144e51e248b5c422d424617c8b04"
+    },
+    {
+      "path": "brand/02-wordmark/refined/lumio-C-open-lilac.png",
+      "bytes": 333478,
+      "sha256": "b6b1f01836f10a3a2b68e99bacf518f8cd7689a06e5d021c6ccfda76e8c4bb06"
+    },
+    {
+      "path": "brand/02-wordmark/refined/lumio-small-ui-alternate.png",
+      "bytes": 401516,
+      "sha256": "3268e262c088993286985a6d8f3ae8938a4939073d4f4d8d1cbd2d0c5332d79e"
+    },
+    {
+      "path": "brand/03-logo/approved/README.md",
+      "bytes": 247,
+      "sha256": "f5e56f3f7478f640be83d4355c5b00302093a901ce25a6f579e88d50ff90b18f"
+    },
+    {
+      "path": "brand/03-logo/approved/lumio-primary-integrated.png",
+      "bytes": 537498,
+      "sha256": "ae9eb03a6abc6bd25b80e2161dda042170952a8912e0f2ceedb68858501445e1"
+    },
+    {
+      "path": "brand/03-logo/integrated/README.md",
+      "bytes": 1100,
+      "sha256": "d1217d02517bdee2a2232dd8efc4897cf19ff216f0e000852c511023afa85060"
+    },
+    {
+      "path": "brand/03-logo/integrated/generation-prompts.json",
+      "bytes": 3695,
+      "sha256": "990f8026bf3fa2278b9a2f78ad54a9d72cffe59f50e68b464117d589a80814be"
+    },
+    {
+      "path": "brand/03-logo/integrated/lumio-integrated-o.png",
+      "bytes": 537498,
+      "sha256": "ae9eb03a6abc6bd25b80e2161dda042170952a8912e0f2ceedb68858501445e1"
+    },
+    {
+      "path": "brand/03-logo/primary/README.md",
+      "bytes": 1033,
+      "sha256": "e68e0c27b17b2f4a26d708f0a36371a9867eff828927a666a70e312f23165fa3"
+    },
+    {
+      "path": "brand/03-logo/primary/generation-prompts.json",
+      "bytes": 3281,
+      "sha256": "c9cca5eb9ef4fc39d65a6970803b0fe836cbaf186483bcf38f8e9c36d67936dc"
+    },
+    {
+      "path": "brand/03-logo/primary/lumio-primary-horizontal.png",
+      "bytes": 580869,
+      "sha256": "c26346b16dd7b60717a0b6a830a1f08022c177ccc38875eb520b4de5feb1e9a3"
+    },
+    {
+      "path": "brand/03-logo/primary/lumio-primary-stacked.png",
+      "bytes": 618942,
+      "sha256": "b32fce61e99d10082b9b76b55b14f977b37048fa055b7afa700a9c09daf1025b"
+    },
+    {
+      "path": "brand/04-app-icon/README.md",
+      "bytes": 886,
+      "sha256": "82bb4de52027e6861619cbb6a0f8c59203e8f1119a83302a7bc41252d112ce55"
+    },
+    {
+      "path": "brand/04-app-icon/approved/README.md",
+      "bytes": 165,
+      "sha256": "257e698110767a1bf8536b64d773586270282804a7d9c3745f17f243ae28f895"
+    },
+    {
+      "path": "brand/04-app-icon/approved/lumio-app-icon.png",
+      "bytes": 1215800,
+      "sha256": "32a713a1a370a2dbcfcdf9357710d1d338328a750ed4e538a3e3ed3ea38aa429"
+    },
+    {
+      "path": "brand/04-app-icon/generation-prompts.json",
+      "bytes": 3254,
+      "sha256": "97caa7b1a8f020463c55adc922665c92799f1457db56515fdc8105b5ae944c02"
+    },
+    {
+      "path": "brand/04-app-icon/lumio-app-icon-cream.png",
+      "bytes": 1074150,
+      "sha256": "c3879ae756bf60400da5632fa15664093ef5449cd6ff9524f275a3fa63445366"
+    },
+    {
+      "path": "brand/04-app-icon/round-02-action/README.md",
+      "bytes": 910,
+      "sha256": "e2e7a1a2cf0204a9abce17237ce5ae1f5f40333613148997a1ce6f6807ae5471"
+    },
+    {
+      "path": "brand/04-app-icon/round-02-action/generation-prompts.json",
+      "bytes": 4084,
+      "sha256": "c4c547112333dd4464b1f981ede17699f231aea407248cad804a7147fd151f75"
+    },
+    {
+      "path": "brand/04-app-icon/round-02-action/lumio-app-icon-turquoise-wink.png",
+      "bytes": 1215800,
+      "sha256": "32a713a1a370a2dbcfcdf9357710d1d338328a750ed4e538a3e3ed3ea38aa429"
+    },
+    {
+      "path": "brand/05-colors/README.md",
+      "bytes": 4408,
+      "sha256": "e8fc462cd772a197c2077ede371b4dd24b174b1c6229bc55f3585fc676bc08ed"
+    },
+    {
+      "path": "brand/05-colors/contrast-checks.json",
+      "bytes": 1621,
+      "sha256": "2bfeda5bbdb347758fa3cd8a0ed008d7cdc39a21241958d45e4124f880dd494e"
+    },
+    {
+      "path": "brand/05-colors/lumio-colors.css",
+      "bytes": 1234,
+      "sha256": "052b0d9abc3086a74e2c8dedc0be237a89de15ca8c59c19588a0a7e0f9d14232"
+    },
+    {
+      "path": "brand/05-colors/lumio-colors.json",
+      "bytes": 4566,
+      "sha256": "195e512981d397fd4da49b166dca91b2662c1f49b64f0f858725de1b950ece5b"
+    },
+    {
+      "path": "brand/05-colors/palette-board.png",
+      "bytes": 173233,
+      "sha256": "4aae3c7f1c43c4e741cfb31cdb419e4308e34dc7d078bede4c0c70043ef3695f"
+    },
+    {
+      "path": "brand/05-colors/palette-board.svg",
+      "bytes": 9452,
+      "sha256": "177ad024d025e401b2056e98e0c99885a5106e4567ea85fbd413f1552e63abc8"
+    },
+    {
+      "path": "brand/05-colors/palette.html",
+      "bytes": 11930,
+      "sha256": "36e490b3409fde7dd20dda8e279dd3f94f80c922139b07d3ab2111efd204890f"
+    },
+    {
+      "path": "brand/06-character/expressions/README.md",
+      "bytes": 2930,
+      "sha256": "1a83d636442531639eb6ad8bad8dddc38d8194682acaab700c58a093459ae99e"
+    },
+    {
+      "path": "brand/06-character/expressions/expression-usage.json",
+      "bytes": 3678,
+      "sha256": "8d3e5f9a330ee6c337239e7e79c62b1a056c79979065cc4aae1dc0f741ab1569"
+    },
+    {
+      "path": "brand/06-character/expressions/generation-prompt.txt",
+      "bytes": 3290,
+      "sha256": "82936efa59373c612fbc76aa9202daffa53b4e9d3ada53c6847dbdd5572917d6"
+    },
+    {
+      "path": "brand/06-character/expressions/lumi-expression-sheet.png",
+      "bytes": 1560968,
+      "sha256": "74bc4fa3aa3f85d8e1d0d84649492e60736cce5d48a7faf3246fd4bfa097a86e"
+    },
+    {
+      "path": "brand/06-character/reactions/README.md",
+      "bytes": 1670,
+      "sha256": "e93a7cfbe87c53cc317b7071084d18e84cdc048196d14286d9dda42c9168908b"
+    },
+    {
+      "path": "brand/06-character/reactions/generation-prompts.json",
+      "bytes": 17871,
+      "sha256": "dc1a4cfd0335b51e56a46c0ea6d0ba84cf7f176c98ec31e3f71e5ba773342f23"
+    },
+    {
+      "path": "brand/06-character/reactions/lumi-celebrating.png",
+      "bytes": 790967,
+      "sha256": "f0898731f4697039149aeddddbb0d61880d3e03a29c5dd1df0566245da735bfb"
+    },
+    {
+      "path": "brand/06-character/reactions/lumi-confused.png",
+      "bytes": 780116,
+      "sha256": "a668c14f1bb2c73a61d448fba81c1bb51550057626b11a3f9734ce3b3f77fcfb"
+    },
+    {
+      "path": "brand/06-character/reactions/lumi-curious.png",
+      "bytes": 716709,
+      "sha256": "9d59fee3e5b32e1dc20ee8f911c04f33209def99a8142b1d1c8b566b668118db"
+    },
+    {
+      "path": "brand/06-character/reactions/lumi-excited.png",
+      "bytes": 758680,
+      "sha256": "06d2672a3eda54c12c8d505894f677dd42aead1a974ef039a0b0efe97b909b2d"
+    },
+    {
+      "path": "brand/06-character/reactions/lumi-happy.png",
+      "bytes": 775166,
+      "sha256": "23ca8dfbaef7b9abcc68e6fe44870acc1cd303b4f84198ff29017a3f2e1273c6"
+    },
+    {
+      "path": "brand/06-character/reactions/lumi-proud.png",
+      "bytes": 779163,
+      "sha256": "420f31982849288ac506de0333378777a7ab0acf18a7c6e68d67355c5fc3dda6"
+    },
+    {
+      "path": "brand/06-character/reactions/lumi-sleepy.png",
+      "bytes": 727746,
+      "sha256": "a88419175c1ad4ad5ae87add5d70e8cff96d8105409bd1be3e03d9a84f0bb930"
+    },
+    {
+      "path": "brand/06-character/reactions/lumi-surprised.png",
+      "bytes": 718933,
+      "sha256": "59f9e5b0e7d6b90a1528c7ba821a4838f2c1ea6ebb784d3cc26ff8156b9c54cf"
+    },
+    {
+      "path": "brand/06-character/reactions/lumi-thinking.png",
+      "bytes": 723435,
+      "sha256": "d7e50e2ea4ef886f05e49c3f8c37594f36c6a973e39d40e1408b7af93791668f"
+    },
+    {
+      "path": "brand/06-character/reactions/preview.html",
+      "bytes": 2808,
+      "sha256": "06647f8ff9e897e43d5b0c814c4864c7510e677d034dbc6e9861cde8dd005b89"
+    },
+    {
+      "path": "brand/06-character/reactions/reactions-manifest.json",
+      "bytes": 3076,
+      "sha256": "c53d82beda3375c14454a1e87b8328888323a055b870f251d0c05d206d6410ab"
+    },
+    {
+      "path": "brand/07-guidelines/Lumio-Brand-Guideline-v1.md",
+      "bytes": 4991,
+      "sha256": "6e2f42683c63878a682809878111818cabf5de176c29f90fbdc38e277b52574d"
+    },
+    {
+      "path": "brand/07-guidelines/Lumio-Brand-Guideline-v1.pdf",
+      "bytes": 5390237,
+      "sha256": "29a68530f7244654fb3347fe61ed31ffd89067d65fa78efacf6024374eed1e23"
+    },
+    {
+      "path": "brand/07-guidelines/Lumio-Brand-Guideline-v2.md",
+      "bytes": 6484,
+      "sha256": "6857830cf1ce28eb41de5a7460e44fd2be08347558ede61b34816e77b390769b"
+    },
+    {
+      "path": "brand/07-guidelines/Lumio-Brand-Guideline-v2.pdf",
+      "bytes": 19468507,
+      "sha256": "30d1d501ec0d458934cd2b981abacb3d0e1258d2fb64b0bff3dc5c78580c1e2b"
+    },
+    {
+      "path": "brand/07-guidelines/README.md",
+      "bytes": 228,
+      "sha256": "7a142e0da3829c6806c55bb6f39b23f97cc49066e03c1b3c97ad5fec02c0535a"
+    },
+    {
+      "path": "brand/07-guidelines/brand-guidance.json",
+      "bytes": 1275,
+      "sha256": "e159d42380eb320fdf64d1c6a6a0e21303e68574d0b7d70c0e6831f2183593c6"
+    },
+    {
+      "path": "brand/08-ui/concepts/01-child-home.png",
+      "bytes": 1565704,
+      "sha256": "0dba7de166ba4ca5e4f8d4849866637332660918957aea685959ddce297f26a6"
+    },
+    {
+      "path": "brand/08-ui/concepts/02-counting-game.png",
+      "bytes": 1213597,
+      "sha256": "26920096a984cfd818fb27a2500d4aeca0ebd29830cfd28ad2350a47159e67cb"
+    },
+    {
+      "path": "brand/08-ui/concepts/03-activity-complete.png",
+      "bytes": 1241129,
+      "sha256": "789a167493f0de021e5c704b46cf9fc9570b18ed7f433024f9ea5f6c6cfab47e"
+    },
+    {
+      "path": "brand/08-ui/concepts/04-parent-overview.png",
+      "bytes": 1201880,
+      "sha256": "c0686db5d3385678f632143bfb8609c69f22e68c17ee7c708c19d7c2069fffe1"
+    },
+    {
+      "path": "brand/08-ui/concepts/README.md",
+      "bytes": 5933,
+      "sha256": "61a2228f0fef9fc715bc194231830e2cb082c413ef4a7f330fe092212bb88977"
+    },
+    {
+      "path": "brand/08-ui/concepts/gallery.html",
+      "bytes": 1330,
+      "sha256": "7c8417dfc53e477a56b4d82e57838963c03f9d262e3a2fd20ea662724850153c"
+    },
+    {
+      "path": "brand/08-ui/concepts/generation-prompts.json",
+      "bytes": 9890,
+      "sha256": "d6c5cbaf3a2ada73c418488d24dc723b3004b53865176d3b18f31d3171416ae2"
+    },
+    {
+      "path": "brand/09-production/README.md",
+      "bytes": 825,
+      "sha256": "2139e5767a9ab42ff151226ac5d36f989680843f37f0540a0110d8cb6b8e4af7"
+    },
+    {
+      "path": "brand/09-production/audio/README.md",
+      "bytes": 775,
+      "sha256": "14148073a8e037716f5d193115ab6b8569b85f633ae22e3092915a0ff1a19b87"
+    },
+    {
+      "path": "brand/09-production/audio/audio-manifest.json",
+      "bytes": 1380,
+      "sha256": "d84af28024bc56823277273afb2ca80cc5301782713252b30a095383921521c5"
+    },
+    {
+      "path": "brand/09-production/audio/lumio-correct.wav",
+      "bytes": 26504,
+      "sha256": "0680c66587051782d8fb655a07e4af0e128e0640fdeb9358c1eac9677455e829"
+    },
+    {
+      "path": "brand/09-production/audio/lumio-retry.wav",
+      "bytes": 15920,
+      "sha256": "f3108438bb1c0ad96fa1238d004664fcf344097baea3fa274d1fb76ed4951288"
+    },
+    {
+      "path": "brand/09-production/audio/lumio-reward.wav",
+      "bytes": 66194,
+      "sha256": "0902d7a33a2999ca35bc3a9acfad337c0021fee8e850e1768a4902f808d624af"
+    },
+    {
+      "path": "brand/09-production/audio/lumio-startup.wav",
+      "bytes": 70604,
+      "sha256": "50259dc83521771611a1e31649aaec8e49c2c35089e2f181e4da0d1867d07578"
+    },
+    {
+      "path": "brand/09-production/audio/lumio-transition.wav",
+      "bytes": 15920,
+      "sha256": "9c394b5239462d2b8c261f4b1e4926aec5c34d55f798f17e0ba2ab72e05fd51e"
+    },
+    {
+      "path": "brand/09-production/audio/preview.html",
+      "bytes": 859,
+      "sha256": "32969dcae5120a6eea547ae127836d60bb4346a222008a5cc609566809617448"
+    },
+    {
+      "path": "brand/09-production/character/README.md",
+      "bytes": 1225,
+      "sha256": "70a97192f8e48c04807272202e09a3fd704f37a969d934edf3013e5115d8b9ed"
+    },
+    {
+      "path": "brand/09-production/character/lumi-icon-foreground-source.png",
+      "bytes": 782868,
+      "sha256": "824acc28e38857320e28ffc1ec478aa74dd5d3276b1c7921d0422661101f8089"
+    },
+    {
+      "path": "brand/09-production/character/lumi-layered-preview.png",
+      "bytes": 113120,
+      "sha256": "1c1ae0fb7c024ac18383b94722ddd3090c5c9795c349999e68a35dac481e32d8"
+    },
+    {
+      "path": "brand/09-production/character/lumi-layered.svg",
+      "bytes": 5273,
+      "sha256": "d5fb940c6741db3cec9e746bf7b99b89d105e7816294fde6ade1b619fb885cab"
+    },
+    {
+      "path": "brand/09-production/character/lumi-silhouette.svg",
+      "bytes": 5509,
+      "sha256": "b928f4ddea91f32df68ddeca7c8ba246799e9ddc2e87c31fcd4994e953ab5457"
+    },
+    {
+      "path": "brand/09-production/character/motion-preview.html",
+      "bytes": 5877,
+      "sha256": "e065d6358a725664d68d23cbee681e7dcd52b832c41b28da8f1430c77eac0da9"
+    },
+    {
+      "path": "brand/09-production/character/parts/arm-left.png",
+      "bytes": 13455,
+      "sha256": "ae4eb88e4a304a6124e7386e9a8c6d8e113c6f18056a7cdd7e27088cf46b71af"
+    },
+    {
+      "path": "brand/09-production/character/parts/arm-left.svg",
+      "bytes": 476,
+      "sha256": "73efecefcc3a73dc4398fe74af91b8286044dd1e97fbf12ddb47d5aa9801109c"
+    },
+    {
+      "path": "brand/09-production/character/parts/arm-right.png",
+      "bytes": 12777,
+      "sha256": "3047759f69b893401277ea2536369d49051f00a4f5cf69e40ccd2abb47d8617e"
+    },
+    {
+      "path": "brand/09-production/character/parts/arm-right.svg",
+      "bytes": 495,
+      "sha256": "9bb9e15c9e79941ea3c4d78d148c28830835516726c279a3a28e735024aaedd8"
+    },
+    {
+      "path": "brand/09-production/character/parts/belly.png",
+      "bytes": 11256,
+      "sha256": "fdeba96929be65649861a2754a75b314818312a4e2a45fd91032948061b7f610"
+    },
+    {
+      "path": "brand/09-production/character/parts/belly.svg",
+      "bytes": 379,
+      "sha256": "e2496b747595b8a052981a54688838cf88d95378668b10e5913f3fe34bd8adce"
+    },
+    {
+      "path": "brand/09-production/character/parts/brow-left.png",
+      "bytes": 6097,
+      "sha256": "bc0086fc8faf96a216f9905d9e3404ed2ee467f8ec7f215b615960eeaa21f7f7"
+    },
+    {
+      "path": "brand/09-production/character/parts/brow-left.svg",
+      "bytes": 363,
+      "sha256": "a1388e9c809cad06718b100dfae22d24e36eb800c7fbf1a034d801a2b4bccc93"
+    },
+    {
+      "path": "brand/09-production/character/parts/brow-right.png",
+      "bytes": 6361,
+      "sha256": "522e61f6350832e0d5bf358e319a7c9d58885eb76b89849765339092b55cbf3f"
+    },
+    {
+      "path": "brand/09-production/character/parts/brow-right.svg",
+      "bytes": 391,
+      "sha256": "63d5bb29ca1e99213fdbfc3a07f9d0985bffc4dced493a3022074bb8a5c3f97d"
+    },
+    {
+      "path": "brand/09-production/character/parts/eye-left.png",
+      "bytes": 12054,
+      "sha256": "0154cb498d7338fbf3205eeb351e03b4ab4936ddc01d9067e95fe3694fe0910c"
+    },
+    {
+      "path": "brand/09-production/character/parts/eye-left.svg",
+      "bytes": 371,
+      "sha256": "16bc01eb51ff325bae47cc45d57048bddf446928171009c84794850530039cf5"
+    },
+    {
+      "path": "brand/09-production/character/parts/eye-right.png",
+      "bytes": 12271,
+      "sha256": "a5f3b5c601b6cd889c699de53bb946d9138b8dba261bd49f0bd4be7940dbfb11"
+    },
+    {
+      "path": "brand/09-production/character/parts/eye-right.svg",
+      "bytes": 374,
+      "sha256": "6333e4c945650cb2eb2bbb4d62b607006411c7a3e98af1fa32f9afb5348541d0"
+    },
+    {
+      "path": "brand/09-production/character/parts/hand-left.png",
+      "bytes": 11403,
+      "sha256": "e19d992df39f0ea3b91993f51e6b336b0c5ea596177a4c45bf99deb4b53d905c"
+    },
+    {
+      "path": "brand/09-production/character/parts/hand-left.svg",
+      "bytes": 495,
+      "sha256": "6e9907dfc059b6cb9df475efcc8a65d0ca3d5f412b2eca88615d327b5744ce54"
+    },
+    {
+      "path": "brand/09-production/character/parts/hand-right.png",
+      "bytes": 11289,
+      "sha256": "ad84f9fa62b6df73109c5ee1cc6a12fcb89f96e57128dd7a45badd78d43381b4"
+    },
+    {
+      "path": "brand/09-production/character/parts/hand-right.svg",
+      "bytes": 498,
+      "sha256": "121723131987e53ab2131ed582786317bc30e48e041141b7bd1adeb6872edf6f"
+    },
+    {
+      "path": "brand/09-production/character/parts/head.png",
+      "bytes": 35395,
+      "sha256": "2d8d3e4e4c4291965cb99f93acadd22dd6b39fa401ff78ded6afb02cb36647d8"
+    },
+    {
+      "path": "brand/09-production/character/parts/head.svg",
+      "bytes": 602,
+      "sha256": "9aba4a8d0f3c1982b72f8f5674befc7fd2d1f87680c48fdbbedea87e6380d8d9"
+    },
+    {
+      "path": "brand/09-production/character/parts/leg-left.png",
+      "bytes": 13579,
+      "sha256": "cc77408f529d0005045fdd38afe121f5d33e065d91e52af49381f32ea5239b48"
+    },
+    {
+      "path": "brand/09-production/character/parts/leg-left.svg",
+      "bytes": 479,
+      "sha256": "2945f3c579b8fe2f53304ef15b9103ce06e5c73e323d54124bb43a0099da06a7"
+    },
+    {
+      "path": "brand/09-production/character/parts/leg-right.png",
+      "bytes": 14909,
+      "sha256": "3c759c7d42bb768d8ca3a9a00b426fedde96de16111fd738ffbbeb31b599c4db"
+    },
+    {
+      "path": "brand/09-production/character/parts/leg-right.svg",
+      "bytes": 510,
+      "sha256": "86f4a97525add0d98c0a57aaf895156e54a18200ff119c5ac9c7cdf05d25f58e"
+    },
+    {
+      "path": "brand/09-production/character/parts/mouth.png",
+      "bytes": 8402,
+      "sha256": "418ddefe88449020cbe53995a5cc8a26abef0423de5eb479af4a1683a5f3fbde"
+    },
+    {
+      "path": "brand/09-production/character/parts/mouth.svg",
+      "bytes": 464,
+      "sha256": "71042fdd99a5c8aeeff6b96659f8980b1a62e3bc97ec455c73cc98a00eecf5dd"
+    },
+    {
+      "path": "brand/09-production/character/parts/pupil-left.png",
+      "bytes": 7419,
+      "sha256": "83fb7c50aeff1ae890a31f96a68238847a1bf912a998345e16bb166fb43e88eb"
+    },
+    {
+      "path": "brand/09-production/character/parts/pupil-left.svg",
+      "bytes": 392,
+      "sha256": "002006662eb5952d61f61c3374a1ae4601ba98150ac088e79b2a515837eb2e3c"
+    },
+    {
+      "path": "brand/09-production/character/parts/pupil-right.png",
+      "bytes": 7452,
+      "sha256": "5ee1331b63cabd14c93e9caad1d609a812fbf0def018823a6b30f66767089977"
+    },
+    {
+      "path": "brand/09-production/character/parts/pupil-right.svg",
+      "bytes": 395,
+      "sha256": "42074149e41664a2b480e15857d2596c33a00cabbb76d06b0d08b9f5f637d943"
+    },
+    {
+      "path": "brand/09-production/character/parts/tail-flame.png",
+      "bytes": 14696,
+      "sha256": "01e49512cc0ec8b612797544f25bb5af3e73a43d9a421bb4beb617e741b50926"
+    },
+    {
+      "path": "brand/09-production/character/parts/tail-flame.svg",
+      "bytes": 531,
+      "sha256": "9064a66319ed029856287e3a36f37601bf41e1ebb07db9a8fdf034a780f5da3e"
+    },
+    {
+      "path": "brand/09-production/character/parts/tail.png",
+      "bytes": 19125,
+      "sha256": "a7d3c9a575bc755cd15a84639cd469be1e3d793966c8d786393abbe6d56327db"
+    },
+    {
+      "path": "brand/09-production/character/parts/tail.svg",
+      "bytes": 462,
+      "sha256": "eb117913c8ddff3b0d3a21a0dbbb57e2f6ad27037ccc74053592e666fad88154"
+    },
+    {
+      "path": "brand/09-production/character/parts/torso.png",
+      "bytes": 21896,
+      "sha256": "77a2de5179270fb2f850484e189d5c5e6048afb370e657d1626876c76019f62f"
+    },
+    {
+      "path": "brand/09-production/character/parts/torso.svg",
+      "bytes": 512,
+      "sha256": "3c9ead688b3aaf41121b63a9a919de839ae9c57e0708a6239f7521c4c2f83772"
+    },
+    {
+      "path": "brand/09-production/character/rig-map.json",
+      "bytes": 3287,
+      "sha256": "1e1f7131c92bfbb8819a38a3aed48973a8b8be6e4a10042f3d4d59d99b01dd40"
+    },
+    {
+      "path": "brand/09-production/fonts/README.md",
+      "bytes": 870,
+      "sha256": "4e6bd032f730cae82430f2abcb6c023fdda8efa44434f5f9cf1f4cf5596bdb3d"
+    },
+    {
+      "path": "brand/09-production/fonts/fonts.css",
+      "bytes": 616,
+      "sha256": "0cbbb68248ca4b56a58aed0965f3e1406d1aef75212f894fe2937b4080fd2cc2"
+    },
+    {
+      "path": "brand/09-production/fonts/lexend/Lexend[wght].ttf",
+      "bytes": 175756,
+      "sha256": "3add53e641fbc81da64da4bb254285e2831b52b029527bc0714e2b9610832ee6"
+    },
+    {
+      "path": "brand/09-production/fonts/lexend/METADATA.pb",
+      "bytes": 949,
+      "sha256": "b49d2fc75e302d8961616bb2005309a8bd76c32787f0769fcb910a8b0f10fcb0"
+    },
+    {
+      "path": "brand/09-production/fonts/lexend/OFL.txt",
+      "bytes": 4436,
+      "sha256": "5da8505887d0fa7fe963445fd58852707fda34adfeb65af25c99d152bab285bd"
+    },
+    {
+      "path": "brand/09-production/fonts/notosansarabic/METADATA.pb",
+      "bytes": 4424,
+      "sha256": "514bf8961fb28742be1947e6627d6c46f5a5bf3c6d7136548b16e9a8885991b9"
+    },
+    {
+      "path": "brand/09-production/fonts/notosansarabic/NotoSansArabic[wdth,wght].ttf",
+      "bytes": 844676,
+      "sha256": "63111b5b2e074dd48cc67692e0a2726d86ee94c1c37fe8598257b7b4e87e869e"
+    },
+    {
+      "path": "brand/09-production/fonts/notosansarabic/OFL.txt",
+      "bytes": 4382,
+      "sha256": "07fc70bfeb985cc1a87a8587d0a0c80bab11c86c9dc3fd95b6f0cb332f983e96"
+    },
+    {
+      "path": "brand/09-production/fonts/nunito/METADATA.pb",
+      "bytes": 1306,
+      "sha256": "3e20743c7ddab54c6ac57d79a6be522d4bae795223855ce90a1b13c4132f0754"
+    },
+    {
+      "path": "brand/09-production/fonts/nunito/Nunito[wght].ttf",
+      "bytes": 276932,
+      "sha256": "bb55a5ca5c2042335b3991af27c4d0705d0ef41cac6164ac737fd8f2a1e85207"
+    },
+    {
+      "path": "brand/09-production/fonts/nunito/OFL.txt",
+      "bytes": 4385,
+      "sha256": "580df76c95a1ec5ab878ceb25bb3d85c6a076804e9c970c8c6972aea775fdf65"
+    },
+    {
+      "path": "brand/09-production/fonts/sources.json",
+      "bytes": 816,
+      "sha256": "62f7051dc2832e94e9a0c37e27333df93b3ad35660d2bf70ad044d1afb117c8f"
+    },
+    {
+      "path": "brand/09-production/fonts/specimen.html",
+      "bytes": 1510,
+      "sha256": "37e6e58fe5312ebe40ac0136d9a4585311cc8aa2f19c29b877e385f685a75da0"
+    },
+    {
+      "path": "brand/09-production/icons/README.md",
+      "bytes": 2008,
+      "sha256": "63ab0d0a678055135f211f5c51c6a303301bf783b0744fda34a240cccc513c91"
+    },
+    {
+      "path": "brand/09-production/icons/android/circle-mask-preview.png",
+      "bytes": 180425,
+      "sha256": "37750ec307a5cce3a9719c0101a68c00de78922221f5a21dd54e78d61c0309cb"
+    },
+    {
+      "path": "brand/09-production/icons/android/res/mipmap-anydpi-v26/ic_launcher.xml",
+      "bytes": 256,
+      "sha256": "9698e84d24608dccbea4bb01b756f2ceb68725bf1d89bc694cb4e2c5ce4f48f2"
+    },
+    {
+      "path": "brand/09-production/icons/android/res/mipmap-anydpi-v33/ic_launcher.xml",
+      "bytes": 319,
+      "sha256": "582f83c2795e7b74ed14a1cd6ce4892018331b99008b7816b4853d5138d1b047"
+    },
+    {
+      "path": "brand/09-production/icons/android/res/mipmap-hdpi/ic_launcher.png",
+      "bytes": 9915,
+      "sha256": "3f96c63ced3af8e17161d65dab90209de974adb10d5d9f74cbb2c4719c0d848c"
+    },
+    {
+      "path": "brand/09-production/icons/android/res/mipmap-hdpi/ic_launcher_background.png",
+      "bytes": 2878,
+      "sha256": "41d85a933e0b410dc498d5eff62880a75a758425577e0338064399e05ba867cd"
+    },
+    {
+      "path": "brand/09-production/icons/android/res/mipmap-hdpi/ic_launcher_foreground.png",
+      "bytes": 13889,
+      "sha256": "7227a18884cf89baa736d885725256af6ae71463abf53f5ac5423482cc261556"
+    },
+    {
+      "path": "brand/09-production/icons/android/res/mipmap-hdpi/ic_launcher_monochrome.png",
+      "bytes": 5229,
+      "sha256": "bfbfa73bc9bc55a171f50bd3998b58fd76595ffc7273d54bc3a96c999a5afe2a"
+    },
+    {
+      "path": "brand/09-production/icons/android/res/mipmap-mdpi/ic_launcher.png",
+      "bytes": 5255,
+      "sha256": "eeb53f7267f6b4eeeb63b20b8f65b7906953ebfeebb01c17837fd80e4a821309"
+    },
+    {
+      "path": "brand/09-production/icons/android/res/mipmap-mdpi/ic_launcher_background.png",
+      "bytes": 1842,
+      "sha256": "1f6ab2df01c5e46299c2b1708d7b722140c36cf2603b9698225eb47237084064"
+    },
+    {
+      "path": "brand/09-production/icons/android/res/mipmap-mdpi/ic_launcher_foreground.png",
+      "bytes": 7436,
+      "sha256": "634593209e4d602d91f871d4447b264b5bf64ac42e6c61df24a8bf15cefa8cd0"
+    },
+    {
+      "path": "brand/09-production/icons/android/res/mipmap-mdpi/ic_launcher_monochrome.png",
+      "bytes": 3353,
+      "sha256": "8b52775aeb74f2f2e16066e24b80d572d9d0bebb523e4250993bfad3bd8b7072"
+    },
+    {
+      "path": "brand/09-production/icons/android/res/mipmap-xhdpi/ic_launcher.png",
+      "bytes": 15629,
+      "sha256": "3b67ce084c77e91e7231af9c3cd1988318e2a33c930a737e5d9ae08f7b5f67bc"
+    },
+    {
+      "path": "brand/09-production/icons/android/res/mipmap-xhdpi/ic_launcher_background.png",
+      "bytes": 4133,
+      "sha256": "78a79ea87dbce5927c8fc7efdbc757701f5d776f379dc3164fb9f40701dfc1f4"
+    },
+    {
+      "path": "brand/09-production/icons/android/res/mipmap-xhdpi/ic_launcher_foreground.png",
+      "bytes": 21790,
+      "sha256": "c11ac9fb8d2f072b612bed9a3deac478ab2d908a8917405bec7cdfc12426689c"
+    },
+    {
+      "path": "brand/09-production/icons/android/res/mipmap-xhdpi/ic_launcher_monochrome.png",
+      "bytes": 7087,
+      "sha256": "c332ac62a8aac035782d72fcbdf0cee01b40c10792e32da67425f22bb4300e89"
+    },
+    {
+      "path": "brand/09-production/icons/android/res/mipmap-xxhdpi/ic_launcher.png",
+      "bytes": 30494,
+      "sha256": "1594ae35b7c036866809f0c05a954326f32a54b69b262d537204a76e497e53b7"
+    },
+    {
+      "path": "brand/09-production/icons/android/res/mipmap-xxhdpi/ic_launcher_background.png",
+      "bytes": 6950,
+      "sha256": "181e489c473a59a89c07969d39312c4916299d5fe1a1d8135f9f9720cf4d6c28"
+    },
+    {
+      "path": "brand/09-production/icons/android/res/mipmap-xxhdpi/ic_launcher_foreground.png",
+      "bytes": 41184,
+      "sha256": "9aa8e81b3a3c055ae96c6673911a33d0ed425178d92aac1f82cf99c317e44343"
+    },
+    {
+      "path": "brand/09-production/icons/android/res/mipmap-xxhdpi/ic_launcher_monochrome.png",
+      "bytes": 11307,
+      "sha256": "28b03e8de134a5ec6b41102172c8ee404007ff68e0006a081b37b25e7fcd6405"
+    },
+    {
+      "path": "brand/09-production/icons/android/res/mipmap-xxxhdpi/ic_launcher.png",
+      "bytes": 48207,
+      "sha256": "ba6e6862cebb49fced6324a6d939540cc482d52c68fa39786d34ea0e5be075e4"
+    },
+    {
+      "path": "brand/09-production/icons/android/res/mipmap-xxxhdpi/ic_launcher_background.png",
+      "bytes": 10385,
+      "sha256": "0c40bd5ccf53c2645f6fb026a7c7703d36c20499be7357f768e60f073da494af"
+    },
+    {
+      "path": "brand/09-production/icons/android/res/mipmap-xxxhdpi/ic_launcher_foreground.png",
+      "bytes": 67338,
+      "sha256": "16432eb8d273e47773c708fca34fd8ee68906cdde811a2980651b3cd21b23e5c"
+    },
+    {
+      "path": "brand/09-production/icons/android/res/mipmap-xxxhdpi/ic_launcher_monochrome.png",
+      "bytes": 15868,
+      "sha256": "1d05f276fd50c801d60570179ccb08a2c3fcb2552e221c254b1ebf1f515d4ec9"
+    },
+    {
+      "path": "brand/09-production/icons/android/source/background.svg",
+      "bytes": 270,
+      "sha256": "b324001ec0fa613643e6d393aa5b2faac74432aa7b148aafab608630cf3d104d"
+    },
+    {
+      "path": "brand/09-production/icons/android/source/foreground-1080.png",
+      "bytes": 337830,
+      "sha256": "18b4d2568a2db194a4dad1c6cd9ed0718a2a4de7a5ece3c195cc19af93ea291c"
+    },
+    {
+      "path": "brand/09-production/icons/android/source/monochrome-1080.png",
+      "bytes": 28319,
+      "sha256": "e47cbd827a5ead4881c9196b8a0d0c645c0c9374360a466853b32d5ba8083fb6"
+    },
+    {
+      "path": "brand/09-production/icons/android/store/lumio-play-store-512.png",
+      "bytes": 305987,
+      "sha256": "56ac91c62d11df7b00f0dc204959e3193ecc4383d54ef869d67ac3ddb6a27d19"
+    },
+    {
+      "path": "brand/09-production/icons/export-manifest.json",
+      "bytes": 699,
+      "sha256": "bc094709822d5f99c1686ba7d5e31d24cd80c37d1f30027e4edc068e5dbe0251"
+    },
+    {
+      "path": "brand/09-production/icons/ios/AppIcon.appiconset/Contents.json",
+      "bytes": 205,
+      "sha256": "d9d0f3e9c5c0c7362d34855054a3a5ccc4f95a4ba8be12089b7d75948fde63ac"
+    },
+    {
+      "path": "brand/09-production/icons/ios/AppIcon.appiconset/lumio-1024.png",
+      "bytes": 1094883,
+      "sha256": "7a637abc99e4e8fca941497906f9c2243ca2ccccce5a40d887d143076dca76d8"
+    },
+    {
+      "path": "brand/09-production/icons/ios/legacy-sizes/lumio-120.png",
+      "bytes": 22475,
+      "sha256": "4c7d2fa73d5714555285aeb3bdbe2bbc2866dc9ab8b79d22dd5f548575a100df"
+    },
+    {
+      "path": "brand/09-production/icons/ios/legacy-sizes/lumio-152.png",
+      "bytes": 33310,
+      "sha256": "4e86a11208c2adc9b28a74da562fe130a7da2ab4348fe63627d4c1f0a7be465e"
+    },
+    {
+      "path": "brand/09-production/icons/ios/legacy-sizes/lumio-167.png",
+      "bytes": 38202,
+      "sha256": "04d0e06346e6ab79c962cdaf0ceec9067c292c001d912e460e4fe77c49a29871"
+    },
+    {
+      "path": "brand/09-production/icons/ios/legacy-sizes/lumio-180.png",
+      "bytes": 43532,
+      "sha256": "2f7584af09feb37a7a64043a01a15da56c9f8b8e22674d054c4950081a41f0c1"
+    },
+    {
+      "path": "brand/09-production/icons/ios/legacy-sizes/lumio-20.png",
+      "bytes": 1255,
+      "sha256": "bc231962d544e055892881504855afde0732d992eada002ddab8064788262cb9"
+    },
+    {
+      "path": "brand/09-production/icons/ios/legacy-sizes/lumio-29.png",
+      "bytes": 2305,
+      "sha256": "c09111d17e6cbf919cd4a1f9be44a1ae027d82db14bb48841eb170c0fd059da2"
+    },
+    {
+      "path": "brand/09-production/icons/ios/legacy-sizes/lumio-40.png",
+      "bytes": 3883,
+      "sha256": "86dcd36b5601af4a3bd96bfc413999346238a34827e9063631af959f006c9b8c"
+    },
+    {
+      "path": "brand/09-production/icons/ios/legacy-sizes/lumio-58.png",
+      "bytes": 7079,
+      "sha256": "461a4e7c3a7fd3a31d2c8ddfbd348c0ac1c9629629c4f065a5b10212bb227120"
+    },
+    {
+      "path": "brand/09-production/icons/ios/legacy-sizes/lumio-60.png",
+      "bytes": 7477,
+      "sha256": "3cedd1373dba15642302aae8fcc9c39596cbbee0526a5d85af80527e1379583f"
+    },
+    {
+      "path": "brand/09-production/icons/ios/legacy-sizes/lumio-76.png",
+      "bytes": 10884,
+      "sha256": "4cdb2bc8ba4d351abf25950b62d3c1ec6ef09becc4541f2deedd6203f549fb32"
+    },
+    {
+      "path": "brand/09-production/icons/ios/legacy-sizes/lumio-80.png",
+      "bytes": 11767,
+      "sha256": "03c4c12f29ce6423a90e393c35b5499c1ff3079a716c06bfe8ac69bcc156da31"
+    },
+    {
+      "path": "brand/09-production/icons/ios/legacy-sizes/lumio-87.png",
+      "bytes": 13502,
+      "sha256": "34a209bfd7f9e05a99e0c3b62841cf8819a0b4379d24a0389e3a85e763244ed7"
+    },
+    {
+      "path": "brand/09-production/icons/web/lumio-16.png",
+      "bytes": 359,
+      "sha256": "47cf6f830bee66c02f2dfd4dc7150be5e8ffff84d5df75813ed5e732a5b69b83"
+    },
+    {
+      "path": "brand/09-production/icons/web/lumio-180.png",
+      "bytes": 43532,
+      "sha256": "2f7584af09feb37a7a64043a01a15da56c9f8b8e22674d054c4950081a41f0c1"
+    },
+    {
+      "path": "brand/09-production/icons/web/lumio-192.png",
+      "bytes": 48207,
+      "sha256": "ba6e6862cebb49fced6324a6d939540cc482d52c68fa39786d34ea0e5be075e4"
+    },
+    {
+      "path": "brand/09-production/icons/web/lumio-32.png",
+      "bytes": 634,
+      "sha256": "cc205f9e2fee68a3a06d02f3d770ecd5bd31327525483e0eef805d56169ddc25"
+    },
+    {
+      "path": "brand/09-production/icons/web/lumio-48.png",
+      "bytes": 961,
+      "sha256": "6072d141dade015a3d83713e73b319bc94b1b1c8952caa68a9253aa658c56d5b"
+    },
+    {
+      "path": "brand/09-production/icons/web/lumio-512.png",
+      "bytes": 305987,
+      "sha256": "56ac91c62d11df7b00f0dc204959e3193ecc4383d54ef869d67ac3ddb6a27d19"
+    },
+    {
+      "path": "brand/09-production/icons/web/site.webmanifest",
+      "bytes": 409,
+      "sha256": "ef09121b3f4f0ace229da9a0c0d8dd1742137ddacdc854e840c8fe26fbb2f24a"
+    },
+    {
+      "path": "brand/09-production/logos/README.md",
+      "bytes": 1283,
+      "sha256": "926d89a10845fd0cc5f09c623539067bc71eff12db48f89c47441be16622688c"
+    },
+    {
+      "path": "brand/09-production/logos/logo-family-preview.png",
+      "bytes": 94330,
+      "sha256": "f27d302a688620b86f2b4bfa227288459dd18d35a59c35fddc9a9be6f3b40920"
+    },
+    {
+      "path": "brand/09-production/logos/lumio-flame-symbol.png",
+      "bytes": 60105,
+      "sha256": "4bf3147c26b66246c7b92a0b6655b93f42582add67f29170d3762b3a35bc463a"
+    },
+    {
+      "path": "brand/09-production/logos/lumio-flame-symbol.svg",
+      "bytes": 326,
+      "sha256": "83b6f8b17655055a6aaa3efb61fd7d7647cdc5b7444ec01ea77e3faf8ce7cdd8"
+    },
+    {
+      "path": "brand/09-production/logos/lumio-primary-black.png",
+      "bytes": 45353,
+      "sha256": "d2225eebda2d13e9cd61a9a31948d3f460ff75341fd04fe025c7434d22c515be"
+    },
+    {
+      "path": "brand/09-production/logos/lumio-primary-black.svg",
+      "bytes": 5779,
+      "sha256": "b0439418aec74ac980998bb378cc7f2959575d5e16adc8ac2bada5062ed61686"
+    },
+    {
+      "path": "brand/09-production/logos/lumio-primary-color.png",
+      "bytes": 77982,
+      "sha256": "fb8bfe9a904411eb73caf76ae3a8ca66e2a4d97c905d4e7e8a6dfaf1ffbc4ee7"
+    },
+    {
+      "path": "brand/09-production/logos/lumio-primary-color.svg",
+      "bytes": 5543,
+      "sha256": "74d1ade9c81e58b83a2559a887c92cbb59a6d16a9b1a5c5a0b47f40862a44f26"
+    },
+    {
+      "path": "brand/09-production/logos/lumio-primary-plum.png",
+      "bytes": 57475,
+      "sha256": "6dcd99a0e3c56fd3c86c41e1dd075d1641866ef99408abc118e4ac75948d7eff"
+    },
+    {
+      "path": "brand/09-production/logos/lumio-primary-plum.svg",
+      "bytes": 5778,
+      "sha256": "e5b96f4bc737d0a497ed6cfefaa368a7cc8e05d7ce8c699ed124eda4c5e7f9e0"
+    },
+    {
+      "path": "brand/09-production/logos/lumio-primary-reverse.png",
+      "bytes": 69280,
+      "sha256": "63d5ed4623cc5094af9d40bd28fbd79d9b7137f1897042a83bc1af998d3fd7bb"
+    },
+    {
+      "path": "brand/09-production/logos/lumio-primary-reverse.svg",
+      "bytes": 5543,
+      "sha256": "dc7ec59afb30a161031c076240f5e74a7215ae4f00ca90d619cfdb3fb5367604"
+    },
+    {
+      "path": "brand/09-production/logos/lumio-primary-white.png",
+      "bytes": 42258,
+      "sha256": "74b684f38c603c31804b848166885efe167388acf1597d6935726bc978ee16c0"
+    },
+    {
+      "path": "brand/09-production/logos/lumio-primary-white.svg",
+      "bytes": 5779,
+      "sha256": "aa0e4397a227956434ca0138e945749d7ac4250eda3dfc0286b21557681d6176"
+    },
+    {
+      "path": "brand/09-production/logos/lumio-small-ui-black.png",
+      "bytes": 35161,
+      "sha256": "22d5d4c62b9fc4d32f45920a6198d4705e2699df0a71295a0dfa4630e95cd46a"
+    },
+    {
+      "path": "brand/09-production/logos/lumio-small-ui-black.svg",
+      "bytes": 2056,
+      "sha256": "7871de6479efd74d1b39f679e015ebfe4182b822b9ee2264ac0fb37e1f51b31c"
+    },
+    {
+      "path": "brand/09-production/logos/lumio-small-ui-color.png",
+      "bytes": 43491,
+      "sha256": "7066751f4a35c208aa13aafed40cdd9b2788738b4184d71590cc6da90a3985eb"
+    },
+    {
+      "path": "brand/09-production/logos/lumio-small-ui-color.svg",
+      "bytes": 1817,
+      "sha256": "ac0ed7e0ed0f9c10c6ea54fe724f0e083f1cff1b96b659695208325e90740887"
+    },
+    {
+      "path": "brand/09-production/logos/lumio-small-ui-plum.png",
+      "bytes": 43351,
+      "sha256": "4f4c7088d3280ef7980c43ab8f64983d4941844c2459def098bf841b9dece490"
+    },
+    {
+      "path": "brand/09-production/logos/lumio-small-ui-plum.svg",
+      "bytes": 2055,
+      "sha256": "3b7379503e4ab8ee765eea8b9b2717dec01206f5e7f01fb5d07ee51f6c55536c"
+    },
+    {
+      "path": "brand/09-production/logos/lumio-small-ui-reverse.png",
+      "bytes": 32368,
+      "sha256": "22265c1de5ff43ff7591ff884a818d4cb51319c9b4fcb165c8a27d43acaec5d1"
+    },
+    {
+      "path": "brand/09-production/logos/lumio-small-ui-reverse.svg",
+      "bytes": 1817,
+      "sha256": "a8c0a693450957dd5e66bfec3b74ef0b74a8fa951be2969e55822ea565890fea"
+    },
+    {
+      "path": "brand/09-production/logos/lumio-small-ui-white.png",
+      "bytes": 31597,
+      "sha256": "60d555f40e131ef5d9f274a9820d80678757de1c99b58b7d35f6796f0ae9e7d8"
+    },
+    {
+      "path": "brand/09-production/logos/lumio-small-ui-white.svg",
+      "bytes": 2056,
+      "sha256": "58bdd26eb029ef35a38c3c31019d8264b9aaa9ed23a392aa2c887ac2290c7530"
+    },
+    {
+      "path": "brand/09-production/logos/lumio-wordmark-black.png",
+      "bytes": 35300,
+      "sha256": "081b501bca7101d2bd99b2f02ad222db9555c635ea36ac7276e0fc8081a5d8d6"
+    },
+    {
+      "path": "brand/09-production/logos/lumio-wordmark-black.svg",
+      "bytes": 2229,
+      "sha256": "a5e7e82ed2d72677027b16b9022ef105c9e8273b50db06e0ea79cf94661eb789"
+    },
+    {
+      "path": "brand/09-production/logos/lumio-wordmark-color.png",
+      "bytes": 43815,
+      "sha256": "745e896eea5a9a931541bbc0ee3b3ab66171b9f92d7f8a20a73aad0055386483"
+    },
+    {
+      "path": "brand/09-production/logos/lumio-wordmark-color.svg",
+      "bytes": 1990,
+      "sha256": "e345177ba6aacb6ee491bef8fa534f478ed8988defd0341478f8f5cc648fccbc"
+    },
+    {
+      "path": "brand/09-production/logos/lumio-wordmark-plum.png",
+      "bytes": 43719,
+      "sha256": "8ff58dee0d8470537dc8e1bb0d81a42ea8a7ca180f40ecaa28b8007ebb6be670"
+    },
+    {
+      "path": "brand/09-production/logos/lumio-wordmark-plum.svg",
+      "bytes": 2228,
+      "sha256": "7f161b6f695f3ec85ecb40500de9497539934326bcb64e8364cb89d95ad767bb"
+    },
+    {
+      "path": "brand/09-production/logos/lumio-wordmark-reverse.png",
+      "bytes": 32743,
+      "sha256": "b12c55f426f9a94d6e23dbc5e6af3131eb5dfa32087ed2e28c85ba4209f598ce"
+    },
+    {
+      "path": "brand/09-production/logos/lumio-wordmark-reverse.svg",
+      "bytes": 1990,
+      "sha256": "2cfbda4624d36864d38948f2e5bc9d8e217f919f140e7eabda593ccd5476854a"
+    },
+    {
+      "path": "brand/09-production/logos/lumio-wordmark-white.png",
+      "bytes": 31848,
+      "sha256": "f931d879e8a8243eea4eb259d83502d430631c629c810d72053c0a6420884c27"
+    },
+    {
+      "path": "brand/09-production/logos/lumio-wordmark-white.svg",
+      "bytes": 2229,
+      "sha256": "78c16fa932e4debd145a27f85b3d2ed85594c861b1696e0aeabf3be656e8d97d"
+    },
+    {
+      "path": "brand/09-production/logos/small-size-check.png",
+      "bytes": 13274,
+      "sha256": "7b841ce80e777bfcd9a437950963d301ebdf132148485adcc7e383c682d64b5f"
+    },
+    {
+      "path": "brand/09-production/tools/build_exports.cjs",
+      "bytes": 7085,
+      "sha256": "9561890f1e259ff50cf1daf6abb127909ccf1b101f1acdcefb201b7c4bb01bb1"
+    },
+    {
+      "path": "brand/09-production/tools/build_guide.py",
+      "bytes": 20789,
+      "sha256": "f2c22aa9be15ea4ea27b0fdada12ffe04b6b661e3a7d0dced1ac0ba7dd6d30be"
+    },
+    {
+      "path": "brand/09-production/tools/build_support.py",
+      "bytes": 8020,
+      "sha256": "f88a9189b2812ad6f99499cb4ed2db18c56c73c14bbaee835223ea3e1b1f9a26"
+    },
+    {
+      "path": "brand/09-production/tools/build_vectors.py",
+      "bytes": 14920,
+      "sha256": "1b8f299bd6ba6cbbf065ad4420f35412d2b4300aec2dcb26f06f97dc14fbdd51"
+    },
+    {
+      "path": "game-structure/README.md",
+      "bytes": 134,
+      "sha256": "d0fb268e4f02bf3b9d657bd904921bb23b1f8f7986b3603e9f794f83203af5fa"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "family": "Sora",
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/sora/Sora%5Bwght%5D.ttf",
+    "asset": "assets/ui/fonts/sora/Sora[wght].ttf",
+    "sha256": "84ff7096ae3ec6c8be47d906d1a0ba4de7f2ce78c615275c77301964a316e16c"
+  },
+  {
+    "family": "Sora",
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/sora/OFL.txt",
+    "asset": "assets/ui/fonts/sora/OFL.txt",
+    "sha256": "ba0b9729c9428ba79a0459ab8ec575791b51509dbec213e383d0316d37fec299"
+  },
+  {
+    "family": "Plus Jakarta Sans",
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/plusjakartasans/PlusJakartaSans%5Bwght%5D.ttf",
+    "asset": "assets/ui/fonts/plusjakartasans/PlusJakartaSans[wght].ttf",
+    "sha256": "89b3fb38aa0d275d7a731d0d817a4f1622b316b4d7fbdedcf02ee9099ff68bc8"
+  },
+  {
+    "family": "Plus Jakarta Sans",
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/plusjakartasans/OFL.txt",
+    "asset": "assets/ui/fonts/plusjakartasans/OFL.txt",
+    "sha256": "995c7199cab65954f545996326755daee7b63cc6b42b06c13da1f9502ab08a99"
+  }
+]

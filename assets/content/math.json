@@ -1,0 +1,981 @@
+{
+  "subjectId": "math",
+  "skills": [
+    {
+      "id": "math.counting.1_to_5",
+      "subjectId": "math",
+      "code": "counting_1_to_5",
+      "title": {
+        "en": "Counting 1 to 5",
+        "ms": "Membilang 1 hingga 5"
+      },
+      "description": {
+        "en": "Practise counting 1 to 5.",
+        "ms": "Berlatih membilang 1 hingga 5."
+      },
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "difficulty": "foundation",
+      "prerequisiteSkillIds": [],
+      "tags": [
+        "counting",
+        "1_to_5"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "math.counting.1_to_10",
+      "subjectId": "math",
+      "code": "counting_1_to_10",
+      "title": {
+        "en": "Counting 1 to 10",
+        "ms": "Membilang 1 hingga 10"
+      },
+      "description": {
+        "en": "Practise counting 1 to 10.",
+        "ms": "Berlatih membilang 1 hingga 10."
+      },
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "difficulty": "foundation",
+      "prerequisiteSkillIds": [
+        "math.counting.1_to_5"
+      ],
+      "tags": [
+        "counting",
+        "1_to_10"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "math.counting.1_to_20",
+      "subjectId": "math",
+      "code": "counting_1_to_20",
+      "title": {
+        "en": "Counting 1 to 20",
+        "ms": "Membilang 1 hingga 20"
+      },
+      "description": {
+        "en": "Practise counting 1 to 20.",
+        "ms": "Berlatih membilang 1 hingga 20."
+      },
+      "minimumAge": 5,
+      "recommendedAge": 6,
+      "difficulty": "developing",
+      "prerequisiteSkillIds": [
+        "math.counting.1_to_10"
+      ],
+      "tags": [
+        "counting",
+        "1_to_20"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "math.numerals.recognition",
+      "subjectId": "math",
+      "code": "numerals_recognition",
+      "title": {
+        "en": "Recognising numerals",
+        "ms": "Mengenal angka"
+      },
+      "description": {
+        "en": "Practise recognising numerals.",
+        "ms": "Berlatih mengenal angka."
+      },
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "difficulty": "foundation",
+      "prerequisiteSkillIds": [],
+      "tags": [
+        "numerals",
+        "recognition"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "math.numbers.compare",
+      "subjectId": "math",
+      "code": "numbers_compare",
+      "title": {
+        "en": "Comparing numbers",
+        "ms": "Membandingkan nombor"
+      },
+      "description": {
+        "en": "Practise comparing numbers.",
+        "ms": "Berlatih membandingkan nombor."
+      },
+      "minimumAge": 5,
+      "recommendedAge": 6,
+      "difficulty": "developing",
+      "prerequisiteSkillIds": [
+        "math.counting.1_to_10",
+        "math.numerals.recognition"
+      ],
+      "tags": [
+        "numbers",
+        "compare"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "math.numbers.order",
+      "subjectId": "math",
+      "code": "numbers_order",
+      "title": {
+        "en": "Ordering numbers",
+        "ms": "Menyusun nombor"
+      },
+      "description": {
+        "en": "Practise ordering numbers.",
+        "ms": "Berlatih menyusun nombor."
+      },
+      "minimumAge": 5,
+      "recommendedAge": 6,
+      "difficulty": "developing",
+      "prerequisiteSkillIds": [
+        "math.numbers.compare"
+      ],
+      "tags": [
+        "numbers",
+        "order"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "math.addition.within_5",
+      "subjectId": "math",
+      "code": "addition_within_5",
+      "title": {
+        "en": "Addition within 5",
+        "ms": "Tambah dalam lingkungan 5"
+      },
+      "description": {
+        "en": "Practise addition within 5.",
+        "ms": "Berlatih tambah dalam lingkungan 5."
+      },
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "difficulty": "foundation",
+      "prerequisiteSkillIds": [
+        "math.counting.1_to_10"
+      ],
+      "tags": [
+        "addition",
+        "within_5"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "math.addition.within_10",
+      "subjectId": "math",
+      "code": "addition_within_10",
+      "title": {
+        "en": "Addition within 10",
+        "ms": "Tambah dalam lingkungan 10"
+      },
+      "description": {
+        "en": "Practise addition within 10.",
+        "ms": "Berlatih tambah dalam lingkungan 10."
+      },
+      "minimumAge": 6,
+      "recommendedAge": 6,
+      "difficulty": "developing",
+      "prerequisiteSkillIds": [
+        "math.addition.within_5"
+      ],
+      "tags": [
+        "addition",
+        "within_10"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "math.subtraction.within_5",
+      "subjectId": "math",
+      "code": "subtraction_within_5",
+      "title": {
+        "en": "Subtraction within 5",
+        "ms": "Tolak dalam lingkungan 5"
+      },
+      "description": {
+        "en": "Practise subtraction within 5.",
+        "ms": "Berlatih tolak dalam lingkungan 5."
+      },
+      "minimumAge": 5,
+      "recommendedAge": 6,
+      "difficulty": "foundation",
+      "prerequisiteSkillIds": [
+        "math.counting.1_to_10"
+      ],
+      "tags": [
+        "subtraction",
+        "within_5"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "math.subtraction.within_10",
+      "subjectId": "math",
+      "code": "subtraction_within_10",
+      "title": {
+        "en": "Subtraction within 10",
+        "ms": "Tolak dalam lingkungan 10"
+      },
+      "description": {
+        "en": "Practise subtraction within 10.",
+        "ms": "Berlatih tolak dalam lingkungan 10."
+      },
+      "minimumAge": 6,
+      "recommendedAge": 7,
+      "difficulty": "developing",
+      "prerequisiteSkillIds": [
+        "math.subtraction.within_5"
+      ],
+      "tags": [
+        "subtraction",
+        "within_10"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "math.multiplication.equal_groups",
+      "subjectId": "math",
+      "code": "multiplication_equal_groups",
+      "title": {
+        "en": "Equal groups",
+        "ms": "Kumpulan sama banyak"
+      },
+      "description": {
+        "en": "Practise equal groups.",
+        "ms": "Berlatih kumpulan sama banyak."
+      },
+      "minimumAge": 7,
+      "recommendedAge": 7,
+      "difficulty": "confident",
+      "prerequisiteSkillIds": [
+        "math.addition.within_10"
+      ],
+      "tags": [
+        "multiplication",
+        "equal_groups"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "math.money.recognise_malaysia",
+      "subjectId": "math",
+      "code": "money_recognise_malaysia",
+      "title": {
+        "en": "Malaysian money",
+        "ms": "Wang Malaysia"
+      },
+      "description": {
+        "en": "Practise malaysian money.",
+        "ms": "Berlatih wang malaysia."
+      },
+      "minimumAge": 6,
+      "recommendedAge": 6,
+      "difficulty": "developing",
+      "prerequisiteSkillIds": [
+        "math.numerals.recognition"
+      ],
+      "tags": [
+        "money",
+        "recognise_malaysia"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "math.time.hour",
+      "subjectId": "math",
+      "code": "time_hour",
+      "title": {
+        "en": "Telling time to the hour",
+        "ms": "Menyatakan waktu tepat"
+      },
+      "description": {
+        "en": "Practise telling time to the hour.",
+        "ms": "Berlatih menyatakan waktu tepat."
+      },
+      "minimumAge": 6,
+      "recommendedAge": 7,
+      "difficulty": "developing",
+      "prerequisiteSkillIds": [
+        "math.numerals.recognition"
+      ],
+      "tags": [
+        "time",
+        "hour"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "math.shapes.basic",
+      "subjectId": "math",
+      "code": "shapes_basic",
+      "title": {
+        "en": "Basic shapes",
+        "ms": "Bentuk asas"
+      },
+      "description": {
+        "en": "Practise basic shapes.",
+        "ms": "Berlatih bentuk asas."
+      },
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "difficulty": "foundation",
+      "prerequisiteSkillIds": [],
+      "tags": [
+        "shapes",
+        "basic"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "math.fractions.halves",
+      "subjectId": "math",
+      "code": "fractions_halves",
+      "title": {
+        "en": "Halves",
+        "ms": "Setengah"
+      },
+      "description": {
+        "en": "Practise halves.",
+        "ms": "Berlatih setengah."
+      },
+      "minimumAge": 7,
+      "recommendedAge": 7,
+      "difficulty": "confident",
+      "prerequisiteSkillIds": [
+        "math.shapes.basic"
+      ],
+      "tags": [
+        "fractions",
+        "halves"
+      ],
+      "isActive": true
+    }
+  ],
+  "content": [
+    {
+      "id": "math.counting.1_to_5.item_01",
+      "skillId": "math.counting.1_to_5",
+      "type": "numeric",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "How many stars are shown: ⭐ ⭐ ⭐?",
+      "operands": [
+        3
+      ],
+      "operator": "+",
+      "answer": 3
+    },
+    {
+      "id": "math.counting.1_to_5.item_02",
+      "skillId": "math.counting.1_to_5",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Which number comes after 4?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "3"
+        },
+        {
+          "id": "b",
+          "label": "5"
+        },
+        {
+          "id": "c",
+          "label": "6"
+        }
+      ],
+      "correctChoiceId": "b"
+    },
+    {
+      "id": "math.counting.1_to_10.item_03",
+      "skillId": "math.counting.1_to_10",
+      "type": "numeric",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Count the shells: 🐚 🐚 🐚 🐚 🐚 🐚",
+      "operands": [
+        6
+      ],
+      "operator": "+",
+      "answer": 6
+    },
+    {
+      "id": "math.counting.1_to_10.item_04",
+      "skillId": "math.counting.1_to_10",
+      "type": "multiple_choice",
+      "difficulty": "developing",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 6,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Which number comes before 9?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "7"
+        },
+        {
+          "id": "b",
+          "label": "8"
+        },
+        {
+          "id": "c",
+          "label": "10"
+        }
+      ],
+      "correctChoiceId": "b"
+    },
+    {
+      "id": "math.counting.1_to_20.item_05",
+      "skillId": "math.counting.1_to_20",
+      "type": "numeric",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Count on from 15 by one. What comes next?",
+      "operands": [
+        15,
+        1
+      ],
+      "operator": "+",
+      "answer": 16
+    },
+    {
+      "id": "math.counting.1_to_20.item_06",
+      "skillId": "math.counting.1_to_20",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Which number is between 18 and 20?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "17"
+        },
+        {
+          "id": "b",
+          "label": "19"
+        },
+        {
+          "id": "c",
+          "label": "21"
+        }
+      ],
+      "correctChoiceId": "b"
+    },
+    {
+      "id": "math.numerals.recognition.item_07",
+      "skillId": "math.numerals.recognition",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Which numeral means seven?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "5"
+        },
+        {
+          "id": "b",
+          "label": "7"
+        },
+        {
+          "id": "c",
+          "label": "9"
+        }
+      ],
+      "correctChoiceId": "b"
+    },
+    {
+      "id": "math.numerals.recognition.item_08",
+      "skillId": "math.numerals.recognition",
+      "type": "multiple_choice",
+      "difficulty": "developing",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 6,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Choose the numeral for ten.",
+      "choices": [
+        {
+          "id": "a",
+          "label": "1"
+        },
+        {
+          "id": "b",
+          "label": "10"
+        },
+        {
+          "id": "c",
+          "label": "20"
+        }
+      ],
+      "correctChoiceId": "b"
+    },
+    {
+      "id": "math.numbers.compare.item_09",
+      "skillId": "math.numbers.compare",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Which number is greater?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "4"
+        },
+        {
+          "id": "b",
+          "label": "8"
+        }
+      ],
+      "correctChoiceId": "b"
+    },
+    {
+      "id": "math.numbers.compare.item_10",
+      "skillId": "math.numbers.compare",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Which number is smaller?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "6"
+        },
+        {
+          "id": "b",
+          "label": "2"
+        }
+      ],
+      "correctChoiceId": "b"
+    },
+    {
+      "id": "math.numbers.order.item_11",
+      "skillId": "math.numbers.order",
+      "type": "ordering",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Put the numbers in order from smallest to largest.",
+      "items": [
+        {
+          "id": "item_1",
+          "label": "4"
+        },
+        {
+          "id": "item_2",
+          "label": "2"
+        },
+        {
+          "id": "item_3",
+          "label": "3"
+        }
+      ],
+      "correctOrder": [
+        "item_2",
+        "item_3",
+        "item_1"
+      ]
+    },
+    {
+      "id": "math.numbers.order.item_12",
+      "skillId": "math.numbers.order",
+      "type": "ordering",
+      "difficulty": "developing",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 6,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Put the numbers in order from largest to smallest.",
+      "items": [
+        {
+          "id": "item_1",
+          "label": "7"
+        },
+        {
+          "id": "item_2",
+          "label": "9"
+        },
+        {
+          "id": "item_3",
+          "label": "8"
+        }
+      ],
+      "correctOrder": [
+        "item_2",
+        "item_3",
+        "item_1"
+      ]
+    },
+    {
+      "id": "math.addition.within_5.item_13",
+      "skillId": "math.addition.within_5",
+      "type": "numeric",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "2 + 3 = ?",
+      "operands": [
+        2,
+        3
+      ],
+      "operator": "+",
+      "answer": 5
+    },
+    {
+      "id": "math.addition.within_5.item_14",
+      "skillId": "math.addition.within_5",
+      "type": "numeric",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "1 + 3 = ?",
+      "operands": [
+        1,
+        3
+      ],
+      "operator": "+",
+      "answer": 4
+    },
+    {
+      "id": "math.addition.within_10.item_15",
+      "skillId": "math.addition.within_10",
+      "type": "numeric",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "6 + 3 = ?",
+      "operands": [
+        6,
+        3
+      ],
+      "operator": "+",
+      "answer": 9
+    },
+    {
+      "id": "math.addition.within_10.item_16",
+      "skillId": "math.addition.within_10",
+      "type": "numeric",
+      "difficulty": "developing",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 6,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "5 + 5 = ?",
+      "operands": [
+        5,
+        5
+      ],
+      "operator": "+",
+      "answer": 10
+    },
+    {
+      "id": "math.subtraction.within_5.item_17",
+      "skillId": "math.subtraction.within_5",
+      "type": "numeric",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "5 − 2 = ?",
+      "operands": [
+        5,
+        2
+      ],
+      "operator": "-",
+      "answer": 3
+    },
+    {
+      "id": "math.subtraction.within_5.item_18",
+      "skillId": "math.subtraction.within_5",
+      "type": "numeric",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "4 − 1 = ?",
+      "operands": [
+        4,
+        1
+      ],
+      "operator": "-",
+      "answer": 3
+    },
+    {
+      "id": "math.subtraction.within_10.item_19",
+      "skillId": "math.subtraction.within_10",
+      "type": "numeric",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "9 − 4 = ?",
+      "operands": [
+        9,
+        4
+      ],
+      "operator": "-",
+      "answer": 5
+    },
+    {
+      "id": "math.subtraction.within_10.item_20",
+      "skillId": "math.subtraction.within_10",
+      "type": "numeric",
+      "difficulty": "developing",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 6,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "10 − 3 = ?",
+      "operands": [
+        10,
+        3
+      ],
+      "operator": "-",
+      "answer": 7
+    },
+    {
+      "id": "math.money.recognise_malaysia.item_21",
+      "skillId": "math.money.recognise_malaysia",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Which Malaysian coin is worth fifty sen?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "20 sen"
+        },
+        {
+          "id": "b",
+          "label": "50 sen"
+        },
+        {
+          "id": "c",
+          "label": "RM1"
+        }
+      ],
+      "correctChoiceId": "b"
+    },
+    {
+      "id": "math.time.hour.item_22",
+      "skillId": "math.time.hour",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "The short hand points to 3 and the long hand to 12. What time is it?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "3 o’clock"
+        },
+        {
+          "id": "b",
+          "label": "6 o’clock"
+        },
+        {
+          "id": "c",
+          "label": "12 o’clock"
+        }
+      ],
+      "correctChoiceId": "a"
+    },
+    {
+      "id": "math.shapes.basic.item_23",
+      "skillId": "math.shapes.basic",
+      "type": "multiple_choice",
+      "difficulty": "foundation",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 5,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Which shape has three sides?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Circle"
+        },
+        {
+          "id": "b",
+          "label": "Triangle"
+        },
+        {
+          "id": "c",
+          "label": "Square"
+        }
+      ],
+      "correctChoiceId": "b"
+    },
+    {
+      "id": "math.fractions.halves.item_24",
+      "skillId": "math.fractions.halves",
+      "type": "multiple_choice",
+      "difficulty": "developing",
+      "locale": "en",
+      "minimumAge": 5,
+      "recommendedAge": 6,
+      "tags": [
+        "curated"
+      ],
+      "version": 1,
+      "status": "active",
+      "prompt": "Two equal parts make what fraction?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A half"
+        },
+        {
+          "id": "b",
+          "label": "A quarter"
+        },
+        {
+          "id": "c",
+          "label": "A whole"
+        }
+      ],
+      "correctChoiceId": "a"
+    }
+  ]
+}
